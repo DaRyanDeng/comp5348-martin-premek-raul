@@ -1,0 +1,6 @@
+C:\Users\Matt\Desktop\PracTaskB\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.dll.config
+C:\Users\Matt\Desktop\PracTaskB\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\Matt\Desktop\PracTaskB\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\Matt\Desktop\PracTaskB\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\PracTaskB\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\Matt\Desktop\PracTaskB\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.pdb
