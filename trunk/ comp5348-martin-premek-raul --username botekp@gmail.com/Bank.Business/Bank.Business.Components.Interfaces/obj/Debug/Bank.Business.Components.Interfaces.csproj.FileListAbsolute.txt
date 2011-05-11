@@ -1,0 +1,15 @@
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\EnterpriseScaleSoftwareArchitecture\Assignment2\SVNRepository\Ver2\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\EnterpriseScaleSoftwareArchitecture\Assignment2\SVNRepository\Ver2\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\EnterpriseScaleSoftwareArchitecture\Assignment2\SVNRepository\Ver2\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+E:\Usyd\EnterpriseScaleSoftwareArchitecture\Assignment2\SVNRepository\Ver2\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\EnterpriseScaleSoftwareArchitecture\Assignment2\SVNRepository\Ver2\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\EnterpriseScaleSoftwareArchitecture\Assignment2\Ver2\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\EnterpriseScaleSoftwareArchitecture\Assignment2\Ver2\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\EnterpriseScaleSoftwareArchitecture\Assignment2\Ver2\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+E:\Usyd\EnterpriseScaleSoftwareArchitecture\Assignment2\Ver2\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\EnterpriseScaleSoftwareArchitecture\Assignment2\Ver2\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.pdb

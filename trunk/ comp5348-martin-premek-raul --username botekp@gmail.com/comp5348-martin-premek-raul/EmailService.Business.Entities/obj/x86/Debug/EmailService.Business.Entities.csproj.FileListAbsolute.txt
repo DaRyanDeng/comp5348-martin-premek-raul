@@ -1,0 +1,5 @@
+C:\Users\Matt\Desktop\PracTaskB\EmailService.Business.Entities\bin\Debug\EmailService.Business.Entities.exe
+C:\Users\Matt\Desktop\PracTaskB\EmailService.Business.Entities\bin\Debug\EmailService.Business.Entities.pdb
+C:\Users\Matt\Desktop\PracTaskB\EmailService.Business.Entities\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\PracTaskB\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.exe
+C:\Users\Matt\Desktop\PracTaskB\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.pdb

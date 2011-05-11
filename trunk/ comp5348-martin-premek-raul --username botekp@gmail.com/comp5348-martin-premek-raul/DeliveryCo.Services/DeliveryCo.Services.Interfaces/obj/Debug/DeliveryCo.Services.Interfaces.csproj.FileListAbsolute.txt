@@ -1,0 +1,7 @@
+C:\Users\Matt\Desktop\PracTaskB\DeliveryCo.Services\DeliveryCo.Services.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\PracTaskB\DeliveryCo.Services\DeliveryCo.Services.Interfaces\bin\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Users\Matt\Desktop\PracTaskB\DeliveryCo.Services\DeliveryCo.Services.Interfaces\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+C:\Users\Matt\Desktop\PracTaskB\DeliveryCo.Services\DeliveryCo.Services.Interfaces\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\Matt\Desktop\PracTaskB\DeliveryCo.Services\DeliveryCo.Services.Interfaces\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\Matt\Desktop\PracTaskB\DeliveryCo.Services\DeliveryCo.Services.Interfaces\obj\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Users\Matt\Desktop\PracTaskB\DeliveryCo.Services\DeliveryCo.Services.Interfaces\obj\Debug\DeliveryCo.Services.Interfaces.pdb

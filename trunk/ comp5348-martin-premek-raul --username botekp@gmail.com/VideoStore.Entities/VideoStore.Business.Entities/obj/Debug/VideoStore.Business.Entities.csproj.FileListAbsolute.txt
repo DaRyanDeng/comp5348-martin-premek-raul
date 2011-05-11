@@ -1,0 +1,48 @@
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.dll.config
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.dll
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.pdb
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\Common.dll
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\Common.pdb
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.dll
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.dll.config
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\Common.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\Common.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.dll.config
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\Common.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\Common.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.pdb
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.dll
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.pdb
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.dll.config
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.dll
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.pdb
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\Common.dll
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\Common.pdb
+E:\Usyd\EnterpriseScaleSoftwareArchitecture\Assignment2\SVNRepository\Ver2\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.dll.config
+E:\Usyd\EnterpriseScaleSoftwareArchitecture\Assignment2\SVNRepository\Ver2\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.dll
+E:\Usyd\EnterpriseScaleSoftwareArchitecture\Assignment2\SVNRepository\Ver2\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.pdb
+E:\Usyd\EnterpriseScaleSoftwareArchitecture\Assignment2\SVNRepository\Ver2\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\Common.dll
+E:\Usyd\EnterpriseScaleSoftwareArchitecture\Assignment2\SVNRepository\Ver2\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\Common.pdb
+E:\Usyd\EnterpriseScaleSoftwareArchitecture\Assignment2\SVNRepository\Ver2\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\ResolveAssemblyReference.cache
+E:\Usyd\EnterpriseScaleSoftwareArchitecture\Assignment2\SVNRepository\Ver2\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.dll
+E:\Usyd\EnterpriseScaleSoftwareArchitecture\Assignment2\SVNRepository\Ver2\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.pdb
+E:\Usyd\EnterpriseScaleSoftwareArchitecture\Assignment2\Ver2\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.dll.config
+E:\Usyd\EnterpriseScaleSoftwareArchitecture\Assignment2\Ver2\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.dll
+E:\Usyd\EnterpriseScaleSoftwareArchitecture\Assignment2\Ver2\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.pdb
+E:\Usyd\EnterpriseScaleSoftwareArchitecture\Assignment2\Ver2\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\Common.dll
+E:\Usyd\EnterpriseScaleSoftwareArchitecture\Assignment2\Ver2\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\Common.pdb
+E:\Usyd\EnterpriseScaleSoftwareArchitecture\Assignment2\Ver2\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\ResolveAssemblyReference.cache
+E:\Usyd\EnterpriseScaleSoftwareArchitecture\Assignment2\Ver2\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.dll
+E:\Usyd\EnterpriseScaleSoftwareArchitecture\Assignment2\Ver2\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.pdb
