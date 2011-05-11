@@ -1,0 +1,10 @@
+E:\Usyd\COMP5348\Assignment2\Ver3\BackupBank.Business\BackupBank.Business.Components.Interfaces\bin\Debug\BackupBank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver3\BackupBank.Business\BackupBank.Business.Components.Interfaces\bin\Debug\BackupBank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver3\BackupBank.Business\BackupBank.Business.Components.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver3\BackupBank.Business\BackupBank.Business.Components.Interfaces\obj\Debug\BackupBank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver3\BackupBank.Business\BackupBank.Business.Components.Interfaces\obj\Debug\BackupBank.Business.Components.Interfaces.pdb
+E:\Ver3\BackupBank.Business\BackupBank.Business.Components.Interfaces\bin\Debug\BackupBank.Business.Components.Interfaces.dll
+E:\Ver3\BackupBank.Business\BackupBank.Business.Components.Interfaces\bin\Debug\BackupBank.Business.Components.Interfaces.pdb
+E:\Ver3\BackupBank.Business\BackupBank.Business.Components.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+E:\Ver3\BackupBank.Business\BackupBank.Business.Components.Interfaces\obj\Debug\BackupBank.Business.Components.Interfaces.dll
+E:\Ver3\BackupBank.Business\BackupBank.Business.Components.Interfaces\obj\Debug\BackupBank.Business.Components.Interfaces.pdb
