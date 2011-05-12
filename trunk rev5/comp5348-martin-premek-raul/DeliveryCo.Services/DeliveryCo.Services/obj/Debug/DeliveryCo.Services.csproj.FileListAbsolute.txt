@@ -1,0 +1,12 @@
+C:\Users\Matt\Desktop\PracTaskB\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\PracTaskB\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Services.dll
+C:\Users\Matt\Desktop\PracTaskB\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Services.pdb
+C:\Users\Matt\Desktop\PracTaskB\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Business.Components.Interfaces.dll
+C:\Users\Matt\Desktop\PracTaskB\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\Matt\Desktop\PracTaskB\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Users\Matt\Desktop\PracTaskB\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Business.Components.Interfaces.pdb
+C:\Users\Matt\Desktop\PracTaskB\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\Matt\Desktop\PracTaskB\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+C:\Users\Matt\Desktop\PracTaskB\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\DeliveryCo.Services.dll
+C:\Users\Matt\Desktop\PracTaskB\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\DeliveryCo.Services.pdb
+C:\Users\Matt\Desktop\PracTaskB\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll

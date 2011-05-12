@@ -1,0 +1,7 @@
+C:\Users\Matt\Desktop\PracTaskB\Bank.Services\Bank.Services.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\PracTaskB\Bank.Services\Bank.Services.Interfaces\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\Matt\Desktop\PracTaskB\Bank.Services\Bank.Services.Interfaces\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\Matt\Desktop\PracTaskB\Bank.Services\Bank.Services.Interfaces\bin\Debug\Bank.Business.Entities.dll
+C:\Users\Matt\Desktop\PracTaskB\Bank.Services\Bank.Services.Interfaces\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\Matt\Desktop\PracTaskB\Bank.Services\Bank.Services.Interfaces\obj\Debug\Bank.Services.Interfaces.dll
+C:\Users\Matt\Desktop\PracTaskB\Bank.Services\Bank.Services.Interfaces\obj\Debug\Bank.Services.Interfaces.pdb

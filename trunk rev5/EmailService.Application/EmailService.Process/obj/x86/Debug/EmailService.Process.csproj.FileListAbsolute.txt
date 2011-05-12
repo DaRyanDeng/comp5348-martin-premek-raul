@@ -1,0 +1,108 @@
+C:\Users\Matt\Desktop\PracTaskB\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.exe.config
+C:\Users\Matt\Desktop\PracTaskB\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.exe
+C:\Users\Matt\Desktop\PracTaskB\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.pdb
+C:\Users\Matt\Desktop\PracTaskB\EmailService.Application\EmailService.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\PracTaskB\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.exe
+C:\Users\Matt\Desktop\PracTaskB\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.pdb
+C:\Users\Matt\Desktop\PracTaskB\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.dll
+C:\Users\Matt\Desktop\PracTaskB\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.Interfaces.dll
+C:\Users\Matt\Desktop\PracTaskB\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Entities.exe
+C:\Users\Matt\Desktop\PracTaskB\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.Interfaces.pdb
+C:\Users\Matt\Desktop\PracTaskB\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.pdb
+C:\Users\Matt\Desktop\PracTaskB\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Entities.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.exe.config
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.exe
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.exe
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.Interfaces.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Entities.exe
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.Interfaces.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Entities.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\EmailService.Application\EmailService.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.exe.config
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.exe
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.pdb
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.dll
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Entities.exe
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.pdb
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\EmailService.Application\EmailService.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.exe
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver17\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.exe.config
+E:\Usyd\COMP5348\Assignment2\Ver17\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver17\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver17\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.dll
+E:\Usyd\COMP5348\Assignment2\Ver17\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver17\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Entities.exe
+E:\Usyd\COMP5348\Assignment2\Ver17\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver17\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.pdb
+E:\Usyd\COMP5348\Assignment2\Ver17\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver17\EmailService.Application\EmailService.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver17\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver17\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver18\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.exe.config
+E:\Usyd\COMP5348\Assignment2\Ver18\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver18\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver18\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.dll
+E:\Usyd\COMP5348\Assignment2\Ver18\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver18\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Entities.exe
+E:\Usyd\COMP5348\Assignment2\Ver18\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver18\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.pdb
+E:\Usyd\COMP5348\Assignment2\Ver18\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver18\EmailService.Application\EmailService.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver18\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver18\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver20\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.exe.config
+E:\Usyd\COMP5348\Assignment2\Ver20\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver20\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver20\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.dll
+E:\Usyd\COMP5348\Assignment2\Ver20\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver20\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Entities.exe
+E:\Usyd\COMP5348\Assignment2\Ver20\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver20\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.pdb
+E:\Usyd\COMP5348\Assignment2\Ver20\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver20\EmailService.Application\EmailService.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver20\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver20\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver21\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.exe.config
+E:\Usyd\COMP5348\Assignment2\Ver21\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver21\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver21\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.dll
+E:\Usyd\COMP5348\Assignment2\Ver21\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver21\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Entities.exe
+E:\Usyd\COMP5348\Assignment2\Ver21\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver21\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.pdb
+E:\Usyd\COMP5348\Assignment2\Ver21\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver21\EmailService.Application\EmailService.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver21\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver21\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver22\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.exe.config
+E:\Usyd\COMP5348\Assignment2\Ver22\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver22\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver22\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.dll
+E:\Usyd\COMP5348\Assignment2\Ver22\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver22\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Entities.exe
+E:\Usyd\COMP5348\Assignment2\Ver22\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver22\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.pdb
+E:\Usyd\COMP5348\Assignment2\Ver22\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver22\EmailService.Application\EmailService.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver22\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver22\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver23\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.exe.config
+E:\Usyd\COMP5348\Assignment2\Ver23\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver23\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver23\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.dll
+E:\Usyd\COMP5348\Assignment2\Ver23\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver23\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Entities.exe
+E:\Usyd\COMP5348\Assignment2\Ver23\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver23\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.pdb
+E:\Usyd\COMP5348\Assignment2\Ver23\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver23\EmailService.Application\EmailService.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver23\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver23\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.pdb
