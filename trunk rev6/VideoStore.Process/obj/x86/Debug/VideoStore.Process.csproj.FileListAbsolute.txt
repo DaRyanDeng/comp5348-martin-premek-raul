@@ -1,0 +1,629 @@
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Process.exe.config
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Process.exe
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Process.pdb
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Business.Components.dll
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.dll
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Services.dll
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.dll
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\Common.dll
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Business.Components.pdb
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.pdb
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.pdb
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Services.pdb
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\Common.pdb
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\obj\x86\Debug\VideoStore.Process.exe
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\obj\x86\Debug\VideoStore.Process.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Process.exe.config
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Process.exe
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Process.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Business.Components.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Services.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\Common.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Business.Components.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Services.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\Common.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\obj\x86\Debug\VideoStore.Process.exe
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\obj\x86\Debug\VideoStore.Process.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Process.exe.config
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Process.exe
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Process.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Business.Components.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Services.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\Common.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Business.Components.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Services.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\Common.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\obj\x86\Debug\VideoStore.Process.exe
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\obj\x86\Debug\VideoStore.Process.pdb
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\VideoStore.Process.exe.config
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\VideoStore.Process.exe
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\VideoStore.Process.pdb
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\VideoStore.Business.Components.dll
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.dll
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\VideoStore.Services.dll
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.dll
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\Common.dll
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\VideoStore.Business.Components.pdb
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.pdb
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.pdb
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\VideoStore.Services.pdb
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\Common.pdb
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\obj\x86\Debug\VideoStore.Process.exe
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\obj\x86\Debug\VideoStore.Process.pdb
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\VideoStore.Process\bin\Debug\VideoStore.Process.exe.config
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\VideoStore.Process\bin\Debug\VideoStore.Process.exe
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\VideoStore.Process\bin\Debug\VideoStore.Process.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\VideoStore.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\VideoStore.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\VideoStore.Process\bin\Debug\VideoStore.Business.Components.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\VideoStore.Process\bin\Debug\VideoStore.Services.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\VideoStore.Process\bin\Debug\Common.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\VideoStore.Process\bin\Debug\VideoStore.Business.Components.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\VideoStore.Process\bin\Debug\VideoStore.Services.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\VideoStore.Process\bin\Debug\Common.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\VideoStore.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\VideoStore.Process\obj\x86\Debug\VideoStore.Process.exe
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\VideoStore.Process\obj\x86\Debug\VideoStore.Process.pdb
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\VideoStore.Process\bin\Debug\VideoStore.Process.exe.config
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\VideoStore.Process\bin\Debug\VideoStore.Process.exe
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\VideoStore.Process\bin\Debug\VideoStore.Process.pdb
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\VideoStore.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\VideoStore.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\VideoStore.Process\bin\Debug\VideoStore.Business.Components.dll
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\VideoStore.Process\bin\Debug\VideoStore.Services.dll
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\VideoStore.Process\bin\Debug\Common.dll
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\VideoStore.Process\bin\Debug\VideoStore.Business.Components.pdb
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\VideoStore.Process\bin\Debug\VideoStore.Services.pdb
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\VideoStore.Process\bin\Debug\Common.pdb
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\VideoStore.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\VideoStore.Process\obj\x86\Debug\VideoStore.Process.exe
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\VideoStore.Process\obj\x86\Debug\VideoStore.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver18\VideoStore.Process\bin\Debug\VideoStore.Process.exe.config
+E:\Usyd\COMP5348\Assignment2\Ver18\VideoStore.Process\obj\x86\Debug\VideoStore.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver18\VideoStore.Process\obj\x86\Debug\VideoStore.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver18\VideoStore.Process\bin\Debug\VideoStore.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver18\VideoStore.Process\bin\Debug\VideoStore.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver18\VideoStore.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\Usyd\COMP5348\Assignment2\Ver18\VideoStore.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Usyd\COMP5348\Assignment2\Ver18\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Usyd\COMP5348\Assignment2\Ver18\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Usyd\COMP5348\Assignment2\Ver18\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+E:\Usyd\COMP5348\Assignment2\Ver18\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+E:\Usyd\COMP5348\Assignment2\Ver18\VideoStore.Process\bin\Debug\VideoStore.Business.Components.dll
+E:\Usyd\COMP5348\Assignment2\Ver18\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver18\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver18\VideoStore.Process\bin\Debug\VideoStore.Services.dll
+E:\Usyd\COMP5348\Assignment2\Ver18\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver18\VideoStore.Process\bin\Debug\Common.dll
+E:\Usyd\COMP5348\Assignment2\Ver18\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver18\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver18\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver18\VideoStore.Process\bin\Debug\VideoStore.Business.Components.pdb
+E:\Usyd\COMP5348\Assignment2\Ver18\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver18\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver18\VideoStore.Process\bin\Debug\VideoStore.Services.pdb
+E:\Usyd\COMP5348\Assignment2\Ver18\VideoStore.Process\bin\Debug\Common.pdb
+E:\Usyd\COMP5348\Assignment2\Ver18\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver18\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver18\VideoStore.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver19\VideoStore.Process\bin\Debug\VideoStore.Process.exe.config
+E:\Usyd\COMP5348\Assignment2\Ver19\VideoStore.Process\obj\x86\Debug\VideoStore.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver19\VideoStore.Process\obj\x86\Debug\VideoStore.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver19\VideoStore.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver19\VideoStore.Process\bin\Debug\VideoStore.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver19\VideoStore.Process\bin\Debug\VideoStore.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver19\VideoStore.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\Usyd\COMP5348\Assignment2\Ver19\VideoStore.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Usyd\COMP5348\Assignment2\Ver19\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Usyd\COMP5348\Assignment2\Ver19\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Usyd\COMP5348\Assignment2\Ver19\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+E:\Usyd\COMP5348\Assignment2\Ver19\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+E:\Usyd\COMP5348\Assignment2\Ver19\VideoStore.Process\bin\Debug\VideoStore.Business.Components.dll
+E:\Usyd\COMP5348\Assignment2\Ver19\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver19\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver19\VideoStore.Process\bin\Debug\VideoStore.Services.dll
+E:\Usyd\COMP5348\Assignment2\Ver19\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver19\VideoStore.Process\bin\Debug\Common.dll
+E:\Usyd\COMP5348\Assignment2\Ver19\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver19\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver19\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver19\VideoStore.Process\bin\Debug\VideoStore.Business.Components.pdb
+E:\Usyd\COMP5348\Assignment2\Ver19\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver19\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver19\VideoStore.Process\bin\Debug\VideoStore.Services.pdb
+E:\Usyd\COMP5348\Assignment2\Ver19\VideoStore.Process\bin\Debug\Common.pdb
+E:\Usyd\COMP5348\Assignment2\Ver19\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver19\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver20\VideoStore.Process\bin\Debug\VideoStore.Process.exe.config
+E:\Usyd\COMP5348\Assignment2\Ver20\VideoStore.Process\obj\x86\Debug\VideoStore.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver20\VideoStore.Process\obj\x86\Debug\VideoStore.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver20\VideoStore.Process\bin\Debug\VideoStore.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver20\VideoStore.Process\bin\Debug\VideoStore.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver20\VideoStore.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\Usyd\COMP5348\Assignment2\Ver20\VideoStore.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Usyd\COMP5348\Assignment2\Ver20\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Usyd\COMP5348\Assignment2\Ver20\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Usyd\COMP5348\Assignment2\Ver20\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+E:\Usyd\COMP5348\Assignment2\Ver20\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+E:\Usyd\COMP5348\Assignment2\Ver20\VideoStore.Process\bin\Debug\VideoStore.Business.Components.dll
+E:\Usyd\COMP5348\Assignment2\Ver20\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver20\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver20\VideoStore.Process\bin\Debug\VideoStore.Services.dll
+E:\Usyd\COMP5348\Assignment2\Ver20\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver20\VideoStore.Process\bin\Debug\Common.dll
+E:\Usyd\COMP5348\Assignment2\Ver20\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver20\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver20\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver20\VideoStore.Process\bin\Debug\VideoStore.Business.Components.pdb
+E:\Usyd\COMP5348\Assignment2\Ver20\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver20\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver20\VideoStore.Process\bin\Debug\VideoStore.Services.pdb
+E:\Usyd\COMP5348\Assignment2\Ver20\VideoStore.Process\bin\Debug\Common.pdb
+E:\Usyd\COMP5348\Assignment2\Ver20\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver20\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver20\VideoStore.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver21\VideoStore.Process\bin\Debug\VideoStore.Process.exe.config
+E:\Usyd\COMP5348\Assignment2\Ver21\VideoStore.Process\obj\x86\Debug\VideoStore.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver21\VideoStore.Process\obj\x86\Debug\VideoStore.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver21\VideoStore.Process\bin\Debug\VideoStore.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver21\VideoStore.Process\bin\Debug\VideoStore.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver21\VideoStore.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\Usyd\COMP5348\Assignment2\Ver21\VideoStore.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Usyd\COMP5348\Assignment2\Ver21\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Usyd\COMP5348\Assignment2\Ver21\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Usyd\COMP5348\Assignment2\Ver21\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+E:\Usyd\COMP5348\Assignment2\Ver21\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+E:\Usyd\COMP5348\Assignment2\Ver21\VideoStore.Process\bin\Debug\VideoStore.Business.Components.dll
+E:\Usyd\COMP5348\Assignment2\Ver21\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver21\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver21\VideoStore.Process\bin\Debug\VideoStore.Services.dll
+E:\Usyd\COMP5348\Assignment2\Ver21\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver21\VideoStore.Process\bin\Debug\Common.dll
+E:\Usyd\COMP5348\Assignment2\Ver21\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver21\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver21\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver21\VideoStore.Process\bin\Debug\VideoStore.Business.Components.pdb
+E:\Usyd\COMP5348\Assignment2\Ver21\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver21\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver21\VideoStore.Process\bin\Debug\VideoStore.Services.pdb
+E:\Usyd\COMP5348\Assignment2\Ver21\VideoStore.Process\bin\Debug\Common.pdb
+E:\Usyd\COMP5348\Assignment2\Ver21\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver21\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver21\VideoStore.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver22\VideoStore.Process\bin\Debug\VideoStore.Process.exe.config
+E:\Usyd\COMP5348\Assignment2\Ver22\VideoStore.Process\obj\x86\Debug\VideoStore.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver22\VideoStore.Process\obj\x86\Debug\VideoStore.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver22\VideoStore.Process\bin\Debug\VideoStore.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver22\VideoStore.Process\bin\Debug\VideoStore.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver22\VideoStore.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\Usyd\COMP5348\Assignment2\Ver22\VideoStore.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Usyd\COMP5348\Assignment2\Ver22\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Usyd\COMP5348\Assignment2\Ver22\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Usyd\COMP5348\Assignment2\Ver22\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+E:\Usyd\COMP5348\Assignment2\Ver22\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+E:\Usyd\COMP5348\Assignment2\Ver22\VideoStore.Process\bin\Debug\VideoStore.Business.Components.dll
+E:\Usyd\COMP5348\Assignment2\Ver22\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver22\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver22\VideoStore.Process\bin\Debug\VideoStore.Services.dll
+E:\Usyd\COMP5348\Assignment2\Ver22\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver22\VideoStore.Process\bin\Debug\Common.dll
+E:\Usyd\COMP5348\Assignment2\Ver22\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver22\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver22\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver22\VideoStore.Process\bin\Debug\VideoStore.Business.Components.pdb
+E:\Usyd\COMP5348\Assignment2\Ver22\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver22\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver22\VideoStore.Process\bin\Debug\VideoStore.Services.pdb
+E:\Usyd\COMP5348\Assignment2\Ver22\VideoStore.Process\bin\Debug\Common.pdb
+E:\Usyd\COMP5348\Assignment2\Ver22\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver22\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver22\VideoStore.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver23\VideoStore.Process\bin\Debug\VideoStore.Process.exe.config
+E:\Usyd\COMP5348\Assignment2\Ver23\VideoStore.Process\obj\x86\Debug\VideoStore.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver23\VideoStore.Process\obj\x86\Debug\VideoStore.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver23\VideoStore.Process\bin\Debug\VideoStore.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver23\VideoStore.Process\bin\Debug\VideoStore.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver23\VideoStore.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\Usyd\COMP5348\Assignment2\Ver23\VideoStore.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Usyd\COMP5348\Assignment2\Ver23\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Usyd\COMP5348\Assignment2\Ver23\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Usyd\COMP5348\Assignment2\Ver23\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+E:\Usyd\COMP5348\Assignment2\Ver23\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+E:\Usyd\COMP5348\Assignment2\Ver23\VideoStore.Process\bin\Debug\VideoStore.Business.Components.dll
+E:\Usyd\COMP5348\Assignment2\Ver23\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver23\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver23\VideoStore.Process\bin\Debug\VideoStore.Services.dll
+E:\Usyd\COMP5348\Assignment2\Ver23\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver23\VideoStore.Process\bin\Debug\Common.dll
+E:\Usyd\COMP5348\Assignment2\Ver23\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver23\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver23\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver23\VideoStore.Process\bin\Debug\VideoStore.Business.Components.pdb
+E:\Usyd\COMP5348\Assignment2\Ver23\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver23\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver23\VideoStore.Process\bin\Debug\VideoStore.Services.pdb
+E:\Usyd\COMP5348\Assignment2\Ver23\VideoStore.Process\bin\Debug\Common.pdb
+E:\Usyd\COMP5348\Assignment2\Ver23\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver23\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver23\VideoStore.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver24\VideoStore.Process\bin\Debug\VideoStore.Process.exe.config
+E:\Usyd\COMP5348\Assignment2\Ver24\VideoStore.Process\obj\x86\Debug\VideoStore.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver24\VideoStore.Process\obj\x86\Debug\VideoStore.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver24\VideoStore.Process\bin\Debug\VideoStore.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver24\VideoStore.Process\bin\Debug\VideoStore.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver24\VideoStore.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\Usyd\COMP5348\Assignment2\Ver24\VideoStore.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Usyd\COMP5348\Assignment2\Ver24\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Usyd\COMP5348\Assignment2\Ver24\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Usyd\COMP5348\Assignment2\Ver24\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+E:\Usyd\COMP5348\Assignment2\Ver24\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+E:\Usyd\COMP5348\Assignment2\Ver24\VideoStore.Process\bin\Debug\VideoStore.Business.Components.dll
+E:\Usyd\COMP5348\Assignment2\Ver24\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver24\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver24\VideoStore.Process\bin\Debug\VideoStore.Services.dll
+E:\Usyd\COMP5348\Assignment2\Ver24\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver24\VideoStore.Process\bin\Debug\Common.dll
+E:\Usyd\COMP5348\Assignment2\Ver24\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver24\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver24\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver24\VideoStore.Process\bin\Debug\VideoStore.Business.Components.pdb
+E:\Usyd\COMP5348\Assignment2\Ver24\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver24\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver24\VideoStore.Process\bin\Debug\VideoStore.Services.pdb
+E:\Usyd\COMP5348\Assignment2\Ver24\VideoStore.Process\bin\Debug\Common.pdb
+E:\Usyd\COMP5348\Assignment2\Ver24\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver24\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver24\VideoStore.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver26\VideoStore.Process\bin\Debug\VideoStore.Process.exe.config
+E:\Usyd\COMP5348\Assignment2\Ver26\VideoStore.Process\bin\Debug\VideoStore.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver26\VideoStore.Process\bin\Debug\VideoStore.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver26\VideoStore.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\Usyd\COMP5348\Assignment2\Ver26\VideoStore.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Usyd\COMP5348\Assignment2\Ver26\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Usyd\COMP5348\Assignment2\Ver26\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Usyd\COMP5348\Assignment2\Ver26\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+E:\Usyd\COMP5348\Assignment2\Ver26\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+E:\Usyd\COMP5348\Assignment2\Ver26\VideoStore.Process\bin\Debug\VideoStore.Business.Components.dll
+E:\Usyd\COMP5348\Assignment2\Ver26\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver26\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver26\VideoStore.Process\bin\Debug\VideoStore.Services.dll
+E:\Usyd\COMP5348\Assignment2\Ver26\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver26\VideoStore.Process\bin\Debug\Common.dll
+E:\Usyd\COMP5348\Assignment2\Ver26\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver26\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver26\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver26\VideoStore.Process\bin\Debug\VideoStore.Business.Components.pdb
+E:\Usyd\COMP5348\Assignment2\Ver26\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver26\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver26\VideoStore.Process\bin\Debug\VideoStore.Services.pdb
+E:\Usyd\COMP5348\Assignment2\Ver26\VideoStore.Process\bin\Debug\Common.pdb
+E:\Usyd\COMP5348\Assignment2\Ver26\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver26\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver26\VideoStore.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver26\VideoStore.Process\obj\x86\Debug\VideoStore.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver26\VideoStore.Process\obj\x86\Debug\VideoStore.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver26\VideoStore.Process\bin\Debug\SystemWideLoggingNS.exe
+E:\Usyd\COMP5348\Assignment2\Ver26\VideoStore.Process\bin\Debug\SystemWideLoggingNS.pdb
+E:\Usyd\COMP5348\Assignment2\Ver27\VideoStore.Process\bin\Debug\VideoStore.Process.exe.config
+E:\Usyd\COMP5348\Assignment2\Ver27\VideoStore.Process\obj\x86\Debug\VideoStore.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver27\VideoStore.Process\obj\x86\Debug\VideoStore.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver27\VideoStore.Process\bin\Debug\VideoStore.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver27\VideoStore.Process\bin\Debug\VideoStore.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver27\VideoStore.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\Usyd\COMP5348\Assignment2\Ver27\VideoStore.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Usyd\COMP5348\Assignment2\Ver27\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Usyd\COMP5348\Assignment2\Ver27\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Usyd\COMP5348\Assignment2\Ver27\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+E:\Usyd\COMP5348\Assignment2\Ver27\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+E:\Usyd\COMP5348\Assignment2\Ver27\VideoStore.Process\bin\Debug\SystemWideLoggingNS.exe
+E:\Usyd\COMP5348\Assignment2\Ver27\VideoStore.Process\bin\Debug\VideoStore.Business.Components.dll
+E:\Usyd\COMP5348\Assignment2\Ver27\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver27\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver27\VideoStore.Process\bin\Debug\VideoStore.Services.dll
+E:\Usyd\COMP5348\Assignment2\Ver27\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver27\VideoStore.Process\bin\Debug\Common.dll
+E:\Usyd\COMP5348\Assignment2\Ver27\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver27\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver27\VideoStore.Process\bin\Debug\SystemWideLoggingNS.pdb
+E:\Usyd\COMP5348\Assignment2\Ver27\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver27\VideoStore.Process\bin\Debug\VideoStore.Business.Components.pdb
+E:\Usyd\COMP5348\Assignment2\Ver27\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver27\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver27\VideoStore.Process\bin\Debug\VideoStore.Services.pdb
+E:\Usyd\COMP5348\Assignment2\Ver27\VideoStore.Process\bin\Debug\Common.pdb
+E:\Usyd\COMP5348\Assignment2\Ver27\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver27\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver27\VideoStore.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver28\VideoStore.Process\bin\Debug\VideoStore.Process.exe.config
+E:\Usyd\COMP5348\Assignment2\Ver28\VideoStore.Process\obj\x86\Debug\VideoStore.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver28\VideoStore.Process\obj\x86\Debug\VideoStore.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver28\VideoStore.Process\bin\Debug\VideoStore.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver28\VideoStore.Process\bin\Debug\VideoStore.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver28\VideoStore.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\Usyd\COMP5348\Assignment2\Ver28\VideoStore.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Usyd\COMP5348\Assignment2\Ver28\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Usyd\COMP5348\Assignment2\Ver28\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Usyd\COMP5348\Assignment2\Ver28\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+E:\Usyd\COMP5348\Assignment2\Ver28\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+E:\Usyd\COMP5348\Assignment2\Ver28\VideoStore.Process\bin\Debug\SystemWideLoggingNS.exe
+E:\Usyd\COMP5348\Assignment2\Ver28\VideoStore.Process\bin\Debug\VideoStore.Business.Components.dll
+E:\Usyd\COMP5348\Assignment2\Ver28\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver28\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver28\VideoStore.Process\bin\Debug\VideoStore.Services.dll
+E:\Usyd\COMP5348\Assignment2\Ver28\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver28\VideoStore.Process\bin\Debug\Common.dll
+E:\Usyd\COMP5348\Assignment2\Ver28\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver28\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver28\VideoStore.Process\bin\Debug\SystemWideLoggingNS.pdb
+E:\Usyd\COMP5348\Assignment2\Ver28\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver28\VideoStore.Process\bin\Debug\VideoStore.Business.Components.pdb
+E:\Usyd\COMP5348\Assignment2\Ver28\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver28\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver28\VideoStore.Process\bin\Debug\VideoStore.Services.pdb
+E:\Usyd\COMP5348\Assignment2\Ver28\VideoStore.Process\bin\Debug\Common.pdb
+E:\Usyd\COMP5348\Assignment2\Ver28\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver28\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver28\VideoStore.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver29\VideoStore.Process\bin\Debug\VideoStore.Process.exe.config
+E:\Usyd\COMP5348\Assignment2\Ver29\VideoStore.Process\obj\x86\Debug\VideoStore.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver29\VideoStore.Process\obj\x86\Debug\VideoStore.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver29\VideoStore.Process\bin\Debug\VideoStore.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver29\VideoStore.Process\bin\Debug\VideoStore.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver29\VideoStore.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\Usyd\COMP5348\Assignment2\Ver29\VideoStore.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Usyd\COMP5348\Assignment2\Ver29\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Usyd\COMP5348\Assignment2\Ver29\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Usyd\COMP5348\Assignment2\Ver29\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+E:\Usyd\COMP5348\Assignment2\Ver29\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+E:\Usyd\COMP5348\Assignment2\Ver29\VideoStore.Process\bin\Debug\SystemWideLoggingNS.exe
+E:\Usyd\COMP5348\Assignment2\Ver29\VideoStore.Process\bin\Debug\VideoStore.Business.Components.dll
+E:\Usyd\COMP5348\Assignment2\Ver29\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver29\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver29\VideoStore.Process\bin\Debug\VideoStore.Services.dll
+E:\Usyd\COMP5348\Assignment2\Ver29\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver29\VideoStore.Process\bin\Debug\Common.dll
+E:\Usyd\COMP5348\Assignment2\Ver29\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver29\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver29\VideoStore.Process\bin\Debug\SystemWideLoggingNS.pdb
+E:\Usyd\COMP5348\Assignment2\Ver29\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver29\VideoStore.Process\bin\Debug\VideoStore.Business.Components.pdb
+E:\Usyd\COMP5348\Assignment2\Ver29\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver29\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver29\VideoStore.Process\bin\Debug\VideoStore.Services.pdb
+E:\Usyd\COMP5348\Assignment2\Ver29\VideoStore.Process\bin\Debug\Common.pdb
+E:\Usyd\COMP5348\Assignment2\Ver29\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver29\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver29\VideoStore.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver32\VideoStore.Process\bin\Debug\VideoStore.Process.exe.config
+E:\Usyd\COMP5348\Assignment2\Ver32\VideoStore.Process\obj\x86\Debug\VideoStore.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver32\VideoStore.Process\obj\x86\Debug\VideoStore.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver33\VideoStore.Process\bin\Debug\VideoStore.Process.exe.config
+E:\Usyd\COMP5348\Assignment2\Ver33\VideoStore.Process\obj\x86\Debug\VideoStore.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver33\VideoStore.Process\obj\x86\Debug\VideoStore.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver34\VideoStore.Process\bin\Debug\VideoStore.Process.exe.config
+E:\Usyd\COMP5348\Assignment2\Ver34\VideoStore.Process\obj\x86\Debug\VideoStore.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver34\VideoStore.Process\obj\x86\Debug\VideoStore.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver35\VideoStore.Process\bin\Debug\VideoStore.Process.exe.config
+E:\Usyd\COMP5348\Assignment2\Ver35\VideoStore.Process\obj\x86\Debug\VideoStore.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver35\VideoStore.Process\obj\x86\Debug\VideoStore.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver36\VideoStore.Process\bin\Debug\VideoStore.Process.exe.config
+E:\Usyd\COMP5348\Assignment2\Ver36\VideoStore.Process\obj\x86\Debug\VideoStore.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver36\VideoStore.Process\obj\x86\Debug\VideoStore.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver37\VideoStore.Process\bin\Debug\VideoStore.Process.exe.config
+E:\Usyd\COMP5348\Assignment2\Ver37\VideoStore.Process\obj\x86\Debug\VideoStore.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver37\VideoStore.Process\obj\x86\Debug\VideoStore.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver37\VideoStore.Process\bin\Debug\VideoStore.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver37\VideoStore.Process\bin\Debug\VideoStore.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver37\VideoStore.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\Usyd\COMP5348\Assignment2\Ver37\VideoStore.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Usyd\COMP5348\Assignment2\Ver37\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Usyd\COMP5348\Assignment2\Ver37\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Usyd\COMP5348\Assignment2\Ver37\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+E:\Usyd\COMP5348\Assignment2\Ver37\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+E:\Usyd\COMP5348\Assignment2\Ver37\VideoStore.Process\bin\Debug\VideoStore.Business.Components.dll
+E:\Usyd\COMP5348\Assignment2\Ver37\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver37\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver37\VideoStore.Process\bin\Debug\VideoStore.Services.dll
+E:\Usyd\COMP5348\Assignment2\Ver37\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver37\VideoStore.Process\bin\Debug\Common.dll
+E:\Usyd\COMP5348\Assignment2\Ver37\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver37\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver37\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver37\VideoStore.Process\bin\Debug\VideoStore.Business.Components.pdb
+E:\Usyd\COMP5348\Assignment2\Ver37\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver37\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver37\VideoStore.Process\bin\Debug\VideoStore.Services.pdb
+E:\Usyd\COMP5348\Assignment2\Ver37\VideoStore.Process\bin\Debug\Common.pdb
+E:\Usyd\COMP5348\Assignment2\Ver37\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver37\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver37\VideoStore.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver38\VideoStore.Process\bin\Debug\VideoStore.Process.exe.config
+E:\Usyd\COMP5348\Assignment2\Ver38\VideoStore.Process\obj\x86\Debug\VideoStore.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver38\VideoStore.Process\obj\x86\Debug\VideoStore.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver38\VideoStore.Process\bin\Debug\VideoStore.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver38\VideoStore.Process\bin\Debug\VideoStore.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver38\VideoStore.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\Usyd\COMP5348\Assignment2\Ver38\VideoStore.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Usyd\COMP5348\Assignment2\Ver38\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Usyd\COMP5348\Assignment2\Ver38\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Usyd\COMP5348\Assignment2\Ver38\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+E:\Usyd\COMP5348\Assignment2\Ver38\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+E:\Usyd\COMP5348\Assignment2\Ver38\VideoStore.Process\bin\Debug\VideoStore.Business.Components.dll
+E:\Usyd\COMP5348\Assignment2\Ver38\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver38\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver38\VideoStore.Process\bin\Debug\VideoStore.Services.dll
+E:\Usyd\COMP5348\Assignment2\Ver38\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver38\VideoStore.Process\bin\Debug\Common.dll
+E:\Usyd\COMP5348\Assignment2\Ver38\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver38\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver38\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver38\VideoStore.Process\bin\Debug\VideoStore.Business.Components.pdb
+E:\Usyd\COMP5348\Assignment2\Ver38\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver38\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver38\VideoStore.Process\bin\Debug\VideoStore.Services.pdb
+E:\Usyd\COMP5348\Assignment2\Ver38\VideoStore.Process\bin\Debug\Common.pdb
+E:\Usyd\COMP5348\Assignment2\Ver38\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver38\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver38\VideoStore.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver39\VideoStore.Process\bin\Debug\VideoStore.Process.exe.config
+E:\Usyd\COMP5348\Assignment2\Ver39\VideoStore.Process\obj\x86\Debug\VideoStore.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver39\VideoStore.Process\obj\x86\Debug\VideoStore.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver39\VideoStore.Process\bin\Debug\VideoStore.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver39\VideoStore.Process\bin\Debug\VideoStore.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver39\VideoStore.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\Usyd\COMP5348\Assignment2\Ver39\VideoStore.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Usyd\COMP5348\Assignment2\Ver39\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Usyd\COMP5348\Assignment2\Ver39\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Usyd\COMP5348\Assignment2\Ver39\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+E:\Usyd\COMP5348\Assignment2\Ver39\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+E:\Usyd\COMP5348\Assignment2\Ver39\VideoStore.Process\bin\Debug\VideoStore.Business.Components.dll
+E:\Usyd\COMP5348\Assignment2\Ver39\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver39\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver39\VideoStore.Process\bin\Debug\VideoStore.Services.dll
+E:\Usyd\COMP5348\Assignment2\Ver39\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver39\VideoStore.Process\bin\Debug\Common.dll
+E:\Usyd\COMP5348\Assignment2\Ver39\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver39\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver39\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver39\VideoStore.Process\bin\Debug\VideoStore.Business.Components.pdb
+E:\Usyd\COMP5348\Assignment2\Ver39\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver39\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver39\VideoStore.Process\bin\Debug\VideoStore.Services.pdb
+E:\Usyd\COMP5348\Assignment2\Ver39\VideoStore.Process\bin\Debug\Common.pdb
+E:\Usyd\COMP5348\Assignment2\Ver39\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver39\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver39\VideoStore.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver40\VideoStore.Process\bin\Debug\VideoStore.Process.exe.config
+E:\Usyd\COMP5348\Assignment2\Ver40\VideoStore.Process\obj\x86\Debug\VideoStore.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver40\VideoStore.Process\obj\x86\Debug\VideoStore.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver40\VideoStore.Process\bin\Debug\VideoStore.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver40\VideoStore.Process\bin\Debug\VideoStore.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver40\VideoStore.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\Usyd\COMP5348\Assignment2\Ver40\VideoStore.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Usyd\COMP5348\Assignment2\Ver40\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Usyd\COMP5348\Assignment2\Ver40\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Usyd\COMP5348\Assignment2\Ver40\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+E:\Usyd\COMP5348\Assignment2\Ver40\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+E:\Usyd\COMP5348\Assignment2\Ver40\VideoStore.Process\bin\Debug\VideoStore.Business.Components.dll
+E:\Usyd\COMP5348\Assignment2\Ver40\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver40\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver40\VideoStore.Process\bin\Debug\VideoStore.Services.dll
+E:\Usyd\COMP5348\Assignment2\Ver40\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver40\VideoStore.Process\bin\Debug\Common.dll
+E:\Usyd\COMP5348\Assignment2\Ver40\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver40\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver40\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver40\VideoStore.Process\bin\Debug\VideoStore.Business.Components.pdb
+E:\Usyd\COMP5348\Assignment2\Ver40\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver40\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver40\VideoStore.Process\bin\Debug\VideoStore.Services.pdb
+E:\Usyd\COMP5348\Assignment2\Ver40\VideoStore.Process\bin\Debug\Common.pdb
+E:\Usyd\COMP5348\Assignment2\Ver40\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver40\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver40\VideoStore.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver41\VideoStore.Process\bin\Debug\VideoStore.Process.exe.config
+E:\Usyd\COMP5348\Assignment2\Ver41\VideoStore.Process\obj\x86\Debug\VideoStore.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver41\VideoStore.Process\obj\x86\Debug\VideoStore.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver41\VideoStore.Process\bin\Debug\VideoStore.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver41\VideoStore.Process\bin\Debug\VideoStore.Process.pdb
+E:\Usyd\COMP5348\Assignment2\Ver41\VideoStore.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\Usyd\COMP5348\Assignment2\Ver41\VideoStore.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Usyd\COMP5348\Assignment2\Ver41\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Usyd\COMP5348\Assignment2\Ver41\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Usyd\COMP5348\Assignment2\Ver41\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+E:\Usyd\COMP5348\Assignment2\Ver41\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+E:\Usyd\COMP5348\Assignment2\Ver41\VideoStore.Process\bin\Debug\SystemWideLogClient.exe
+E:\Usyd\COMP5348\Assignment2\Ver41\VideoStore.Process\bin\Debug\VideoStore.Business.Components.dll
+E:\Usyd\COMP5348\Assignment2\Ver41\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver41\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver41\VideoStore.Process\bin\Debug\VideoStore.Services.dll
+E:\Usyd\COMP5348\Assignment2\Ver41\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver41\VideoStore.Process\bin\Debug\Common.dll
+E:\Usyd\COMP5348\Assignment2\Ver41\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver41\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver41\VideoStore.Process\bin\Debug\SystemWideLogClient.pdb
+E:\Usyd\COMP5348\Assignment2\Ver41\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver41\VideoStore.Process\bin\Debug\VideoStore.Business.Components.pdb
+E:\Usyd\COMP5348\Assignment2\Ver41\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver41\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver41\VideoStore.Process\bin\Debug\VideoStore.Services.pdb
+E:\Usyd\COMP5348\Assignment2\Ver41\VideoStore.Process\bin\Debug\Common.pdb
+E:\Usyd\COMP5348\Assignment2\Ver41\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver41\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver41\VideoStore.Process\obj\x86\Debug\ResolveAssemblyReference.cache
