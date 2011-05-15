@@ -137,3 +137,25 @@ E:\Usyd\COMP5348\Assignment2\Ver41\SystemWideLogging.Services\bin\Debug\Common.p
 E:\Usyd\COMP5348\Assignment2\Ver41\SystemWideLogging.Services\obj\Debug\ResolveAssemblyReference.cache
 E:\Usyd\COMP5348\Assignment2\Ver41\SystemWideLogging.Services\obj\Debug\SystemWideLogging.Services.dll
 E:\Usyd\COMP5348\Assignment2\Ver41\SystemWideLogging.Services\obj\Debug\SystemWideLogging.Services.pdb
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogging.Services\bin\Debug\SystemWideLogging.Services.dll
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogging.Services\bin\Debug\SystemWideLogging.Services.pdb
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogging.Services\bin\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogging.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogging.Services\bin\Debug\SystemWideLogging.Business.Components.Interfaces.dll
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogging.Services\bin\Debug\SystemWideLogging.Services.Interfaces.dll
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogging.Services\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogging.Services\bin\Debug\VideoStore.Business.Entities.dll
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogging.Services\bin\Debug\VideoStore.Services.Interfaces.dll
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogging.Services\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogging.Services\bin\Debug\Common.dll
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogging.Services\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogging.Services\bin\Debug\SystemWideLogging.Business.Components.Interfaces.pdb
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogging.Services\bin\Debug\SystemWideLogging.Services.Interfaces.pdb
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogging.Services\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogging.Services\bin\Debug\VideoStore.Business.Entities.pdb
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogging.Services\bin\Debug\VideoStore.Services.Interfaces.pdb
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogging.Services\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogging.Services\bin\Debug\Common.pdb
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogging.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogging.Services\obj\Debug\SystemWideLogging.Services.dll
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogging.Services\obj\Debug\SystemWideLogging.Services.pdb

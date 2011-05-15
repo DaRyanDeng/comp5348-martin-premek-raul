@@ -24,7 +24,6 @@
     <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="812ec4eb-7b56-460e-a673-551639fe6e1d" SourceId="1" SourceUrl="net.tcp://localhost:9040/EmailService/mex" />
     <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="d3086e92-9574-4b6a-a2b1-c92d48259383" SourceId="1" SourceUrl="net.tcp://localhost:9040/EmailService/mex" />
     <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="01b9f5b8-8883-45d0-bba6-b0331d59d23a" SourceId="1" SourceUrl="net.tcp://localhost:9040/EmailService/mex" />
-    <MetadataFile FileName="EmailService.Business.Entities.xsd" MetadataType="Schema" ID="3733e91b-815f-44fd-8245-048c90952b25" SourceId="1" SourceUrl="net.tcp://localhost:9040/EmailService/mex" />
   </Metadata>
   <Extensions>
     <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />

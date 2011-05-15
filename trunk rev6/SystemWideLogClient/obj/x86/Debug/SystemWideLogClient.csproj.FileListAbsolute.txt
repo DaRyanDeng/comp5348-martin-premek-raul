@@ -43,3 +43,18 @@ E:\Usyd\COMP5348\Assignment2\Ver41\SystemWideLogClient\bin\Debug\Bank.Business.E
 E:\Usyd\COMP5348\Assignment2\Ver41\SystemWideLogClient\obj\x86\Debug\ResolveAssemblyReference.cache
 E:\Usyd\COMP5348\Assignment2\Ver41\SystemWideLogClient\obj\x86\Debug\SystemWideLogClient.exe
 E:\Usyd\COMP5348\Assignment2\Ver41\SystemWideLogClient\obj\x86\Debug\SystemWideLogClient.pdb
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogClient\bin\Debug\SystemWideLogClient.exe.config
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogClient\bin\Debug\SystemWideLogClient.exe
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogClient\bin\Debug\SystemWideLogClient.pdb
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogClient\bin\Debug\Bank.Services.dll
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogClient\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogClient\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogClient\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogClient\bin\Debug\Bank.Business.Entities.dll
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogClient\bin\Debug\Bank.Services.pdb
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogClient\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogClient\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogClient\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogClient\obj\x86\Debug\SystemWideLogClient.exe
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogClient\obj\x86\Debug\SystemWideLogClient.pdb

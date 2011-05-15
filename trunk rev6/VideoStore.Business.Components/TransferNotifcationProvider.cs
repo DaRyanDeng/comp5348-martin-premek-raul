@@ -8,6 +8,7 @@ using VideoStore.Business.Components.DeliveryService;
 using Microsoft.Practices.ServiceLocation;
 using VideoStore.Business.Components.Interfaces;
 using SystemWideLoggingClientNS;
+using VideoStore.Business.Components.EmailService;
 
 
 
@@ -24,21 +25,22 @@ namespace VideoStore.Business.Components
         {
 
 
-            SystemWideLogging.LogServiceClient.LogEvent("Bank :: Bank.Business\\Bank.Business.Components\\TransferNotificationProvider.cs  :: public void NotifyTransferOutcome(bool pOutcome, string pMessage, string pDescription)", "Transfer Notification Received from Bank (pOutcome="+pOutcome+" , pMessage="+pMessage+" , pDescription="+pDescription+" )");
+            //SystemWideLogging.LogServiceClient.LogEvent("Bank :: Bank.Business\\Bank.Business.Components\\TransferNotificationProvider.cs  :: public void NotifyTransferOutcome(bool pOutcome, string pMessage, string pDescription)", "Transfer Notification Received from Bank (pOutcome="+pOutcome+" , pMessage="+pMessage+" , pDescription="+pDescription+" )");
                 
             
             using (TransactionScope lScope = new TransactionScope())
             {
+                Order lOrder = ServiceLocator.Current.GetInstance<IOrderProvider>().GetOrderByOrderNumber(Guid.Parse(pDescription));
                 if (pOutcome)
                 {
-                    Order lOrder = ServiceLocator.Current.GetInstance<IOrderProvider>().GetOrderByOrderNumber(Guid.Parse(pDescription));
                     PlaceDeliveryForOrder(lOrder);
-                    SendOrderPlacedConfirmation(lOrder);
+                    SendEmailNotification(pOutcome, lOrder); 
                 }
                 else
                 {
                     //roll back stock
                     //send message to user
+                    SendEmailNotification(pOutcome, lOrder); 
                 }
                 lScope.Complete();
             }
@@ -53,8 +55,6 @@ namespace VideoStore.Business.Components
 
                 Delivery lDelivery = new Delivery() { DeliveryStatus = DeliveryStatus.Submitted, SourceAddress = "Video Store Address", DestinationAddress = pOrder.Customer.Address };
 
-
-                
                 DeliveryServiceClient lClient = new DeliveryServiceClient();
                 Guid lDeliveryIdentifier = lClient.SubmitDelivery(new DeliveryInfo()
                 {
@@ -74,13 +74,18 @@ namespace VideoStore.Business.Components
 
         }
 
-        private void SendOrderPlacedConfirmation(Order pOrder)
+        private void SendEmailNotification(bool pOutcome, Order pOrder)
         {
-            EmailProvider.SendMessage(new EmailMessage()
+            String message = "";
+            if (pOutcome)
             {
-                ToAddress = pOrder.Customer.Email,
-                Message = "Your order " + pOrder.OrderNumber + " has been placed"
-            });
+                message = "your order " + pOrder.OrderNumber + " has been placed";
+            }
+            else
+            {
+                message = "Your order " + pOrder.OrderNumber + " has not been placed due to a problem with your credit";
+            }
+            EmailProvider.SendMessage(message, pOrder.Customer.Email);
         }
     }
 }

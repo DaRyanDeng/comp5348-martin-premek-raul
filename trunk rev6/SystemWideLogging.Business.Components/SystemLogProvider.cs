@@ -11,23 +11,12 @@ namespace SystemWideLogging.Business.Components
 {
     public class SystemLogProvider : ISystemLogProvider
     {
-
-
-
-
         public void LogEvent(string sSource, string sMessage)
         {
-
-
-
             using (TransactionScope lScope = new TransactionScope())
             using (SystemWideLoggingEntities lContainer = new SystemWideLoggingEntities())
             {
-
-
                 SystemLog SystemLogItem = new SystemLog();
-
-
                 SystemLogItem.EventTime = DateTime.Now;
                 SystemLogItem.Source = sSource;
                 SystemLogItem.Message = sMessage;
@@ -37,18 +26,8 @@ namespace SystemWideLogging.Business.Components
                 lContainer.SaveChanges();
 
                 lScope.Complete();
-
-
-
             }
-
-
-
-
         }
-
-
-
     }
 }
 

@@ -232,3 +232,12 @@ E:\Usyd\COMP5348\Assignment2\Ver41\VideoStore.Business.Components.Interfaces\bin
 E:\Usyd\COMP5348\Assignment2\Ver41\VideoStore.Business.Components.Interfaces\obj\Debug\ResolveAssemblyReference.cache
 E:\Usyd\COMP5348\Assignment2\Ver41\VideoStore.Business.Components.Interfaces\obj\Debug\VideoStore.Business.Components.Interfaces.dll
 E:\Usyd\COMP5348\Assignment2\Ver41\VideoStore.Business.Components.Interfaces\obj\Debug\VideoStore.Business.Components.Interfaces.pdb
+C:\Users\Raul\Desktop\trunk rev6\VideoStore.Business.Components.Interfaces\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+C:\Users\Raul\Desktop\trunk rev6\VideoStore.Business.Components.Interfaces\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+C:\Users\Raul\Desktop\trunk rev6\VideoStore.Business.Components.Interfaces\bin\Debug\VideoStore.Business.Entities.dll
+C:\Users\Raul\Desktop\trunk rev6\VideoStore.Business.Components.Interfaces\bin\Debug\Common.dll
+C:\Users\Raul\Desktop\trunk rev6\VideoStore.Business.Components.Interfaces\bin\Debug\VideoStore.Business.Entities.pdb
+C:\Users\Raul\Desktop\trunk rev6\VideoStore.Business.Components.Interfaces\bin\Debug\Common.pdb
+C:\Users\Raul\Desktop\trunk rev6\VideoStore.Business.Components.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Raul\Desktop\trunk rev6\VideoStore.Business.Components.Interfaces\obj\Debug\VideoStore.Business.Components.Interfaces.dll
+C:\Users\Raul\Desktop\trunk rev6\VideoStore.Business.Components.Interfaces\obj\Debug\VideoStore.Business.Components.Interfaces.pdb

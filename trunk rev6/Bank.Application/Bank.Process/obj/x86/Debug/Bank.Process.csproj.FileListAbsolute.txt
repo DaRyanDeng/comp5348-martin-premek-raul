@@ -158,3 +158,27 @@ E:\Usyd\COMP5348\Assignment2\Ver41\Bank.Application\Bank.Process\bin\Debug\Syste
 E:\Usyd\COMP5348\Assignment2\Ver41\Bank.Application\Bank.Process\obj\x86\Debug\ResolveAssemblyReference.cache
 E:\Usyd\COMP5348\Assignment2\Ver41\Bank.Application\Bank.Process\obj\x86\Debug\Bank.Process.exe
 E:\Usyd\COMP5348\Assignment2\Ver41\Bank.Application\Bank.Process\obj\x86\Debug\Bank.Process.pdb
+C:\Users\Raul\Desktop\trunk rev6\Bank.Application\Bank.Process\bin\Debug\Bank.Process.exe.config
+C:\Users\Raul\Desktop\trunk rev6\Bank.Application\Bank.Process\bin\Debug\Bank.Process.exe
+C:\Users\Raul\Desktop\trunk rev6\Bank.Application\Bank.Process\bin\Debug\Bank.Process.pdb
+C:\Users\Raul\Desktop\trunk rev6\Bank.Application\Bank.Process\bin\Debug\Bank.Business.Components.dll
+C:\Users\Raul\Desktop\trunk rev6\Bank.Application\Bank.Process\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\Raul\Desktop\trunk rev6\Bank.Application\Bank.Process\bin\Debug\Bank.Business.Entities.dll
+C:\Users\Raul\Desktop\trunk rev6\Bank.Application\Bank.Process\bin\Debug\Bank.Services.dll
+C:\Users\Raul\Desktop\trunk rev6\Bank.Application\Bank.Process\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\Raul\Desktop\trunk rev6\Bank.Application\Bank.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Raul\Desktop\trunk rev6\Bank.Application\Bank.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Raul\Desktop\trunk rev6\Bank.Application\Bank.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Raul\Desktop\trunk rev6\Bank.Application\Bank.Process\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Raul\Desktop\trunk rev6\Bank.Application\Bank.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+C:\Users\Raul\Desktop\trunk rev6\Bank.Application\Bank.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+C:\Users\Raul\Desktop\trunk rev6\Bank.Application\Bank.Process\bin\Debug\SystemWideLogClient.exe
+C:\Users\Raul\Desktop\trunk rev6\Bank.Application\Bank.Process\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\Raul\Desktop\trunk rev6\Bank.Application\Bank.Process\bin\Debug\Bank.Business.Components.pdb
+C:\Users\Raul\Desktop\trunk rev6\Bank.Application\Bank.Process\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\Raul\Desktop\trunk rev6\Bank.Application\Bank.Process\bin\Debug\Bank.Services.pdb
+C:\Users\Raul\Desktop\trunk rev6\Bank.Application\Bank.Process\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\Raul\Desktop\trunk rev6\Bank.Application\Bank.Process\bin\Debug\SystemWideLogClient.pdb
+C:\Users\Raul\Desktop\trunk rev6\Bank.Application\Bank.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Raul\Desktop\trunk rev6\Bank.Application\Bank.Process\obj\x86\Debug\Bank.Process.exe
+C:\Users\Raul\Desktop\trunk rev6\Bank.Application\Bank.Process\obj\x86\Debug\Bank.Process.pdb

@@ -13,6 +13,6 @@ namespace VideoStore.Business.Components.Interfaces
 
     public interface IEmailProvider
     {
-        void SendMessage(EmailMessage pMessage);
+        void SendMessage(String pMessage, String address);
     }
 }

@@ -592,3 +592,25 @@ E:\Usyd\COMP5348\Assignment2\Ver41\DeliveryCo.Application\DeliveryCo.Process\bin
 E:\Usyd\COMP5348\Assignment2\Ver41\DeliveryCo.Application\DeliveryCo.Process\obj\x86\Debug\ResolveAssemblyReference.cache
 E:\Usyd\COMP5348\Assignment2\Ver41\DeliveryCo.Application\DeliveryCo.Process\obj\x86\Debug\DeliveryCo.Process.exe
 E:\Usyd\COMP5348\Assignment2\Ver41\DeliveryCo.Application\DeliveryCo.Process\obj\x86\Debug\DeliveryCo.Process.pdb
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Process.exe.config
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Process.exe
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Process.pdb
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Business.Components.dll
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Business.Components.Interfaces.dll
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Services.dll
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Business.Components.Interfaces.pdb
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Business.Components.pdb
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Services.pdb
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Application\DeliveryCo.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Application\DeliveryCo.Process\obj\x86\Debug\DeliveryCo.Process.exe
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Application\DeliveryCo.Process\obj\x86\Debug\DeliveryCo.Process.pdb

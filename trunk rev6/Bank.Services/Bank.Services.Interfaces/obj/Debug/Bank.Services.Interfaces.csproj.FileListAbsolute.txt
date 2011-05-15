@@ -47,3 +47,10 @@ E:\Usyd\COMP5348\Assignment2\Ver41\Bank.Services\Bank.Services.Interfaces\bin\De
 E:\Usyd\COMP5348\Assignment2\Ver41\Bank.Services\Bank.Services.Interfaces\obj\Debug\ResolveAssemblyReference.cache
 E:\Usyd\COMP5348\Assignment2\Ver41\Bank.Services\Bank.Services.Interfaces\obj\Debug\Bank.Services.Interfaces.dll
 E:\Usyd\COMP5348\Assignment2\Ver41\Bank.Services\Bank.Services.Interfaces\obj\Debug\Bank.Services.Interfaces.pdb
+C:\Users\Raul\Desktop\trunk rev6\Bank.Services\Bank.Services.Interfaces\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\Raul\Desktop\trunk rev6\Bank.Services\Bank.Services.Interfaces\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\Raul\Desktop\trunk rev6\Bank.Services\Bank.Services.Interfaces\bin\Debug\Bank.Business.Entities.dll
+C:\Users\Raul\Desktop\trunk rev6\Bank.Services\Bank.Services.Interfaces\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\Raul\Desktop\trunk rev6\Bank.Services\Bank.Services.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Raul\Desktop\trunk rev6\Bank.Services\Bank.Services.Interfaces\obj\Debug\Bank.Services.Interfaces.dll
+C:\Users\Raul\Desktop\trunk rev6\Bank.Services\Bank.Services.Interfaces\obj\Debug\Bank.Services.Interfaces.pdb

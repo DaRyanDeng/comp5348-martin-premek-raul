@@ -51,3 +51,10 @@ E:\Usyd\COMP5348\Assignment2\Ver41\SystemWideLogging.Entities\SystemWideLogging.
 E:\Usyd\COMP5348\Assignment2\Ver41\SystemWideLogging.Entities\SystemWideLogging.Business.Entities\obj\Debug\ResolveAssemblyReference.cache
 E:\Usyd\COMP5348\Assignment2\Ver41\SystemWideLogging.Entities\SystemWideLogging.Business.Entities\obj\Debug\SystemWideLogging.Business.Entities.dll
 E:\Usyd\COMP5348\Assignment2\Ver41\SystemWideLogging.Entities\SystemWideLogging.Business.Entities\obj\Debug\SystemWideLogging.Business.Entities.pdb
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogging.Entities\SystemWideLogging.Business.Entities\bin\Debug\SystemWideLogging.Business.Entities.dll
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogging.Entities\SystemWideLogging.Business.Entities\bin\Debug\SystemWideLogging.Business.Entities.pdb
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogging.Entities\SystemWideLogging.Business.Entities\bin\Debug\Common.dll
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogging.Entities\SystemWideLogging.Business.Entities\bin\Debug\Common.pdb
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogging.Entities\SystemWideLogging.Business.Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogging.Entities\SystemWideLogging.Business.Entities\obj\Debug\SystemWideLogging.Business.Entities.dll
+C:\Users\Raul\Desktop\trunk rev6\SystemWideLogging.Entities\SystemWideLogging.Business.Entities\obj\Debug\SystemWideLogging.Business.Entities.pdb

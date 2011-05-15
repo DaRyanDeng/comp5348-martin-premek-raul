@@ -3,14 +3,16 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using EmailService.Services.Interfaces;
+using EmailService.Business.Entities;
 
 namespace EmailService.Services
 {
     public class EmailService : IEmailService
     {
-        public void SendEmail(Business.Entities.EmailMessage pMessage)
+        public void SendEmail(String pMessage, String pAddress)
         {
-            Console.WriteLine("Sending email to " + pMessage.ToAddresses + ": " + pMessage.Message);
+            Console.WriteLine("Send to: " + pAddress);
+            Console.WriteLine(pMessage);
         }
     }
 }

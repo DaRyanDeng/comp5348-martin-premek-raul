@@ -14,30 +14,17 @@ using System.Configuration;
 using System.Messaging;
 using SystemWideLoggingClientNS;
 
-
-
 namespace Bank.Process
 {
-
-    
-
-
     class Program
     {
-
-        
         static void Main(string[] args)
         {
+   
+           // SystemWideLogging.InitiateClass();
 
-            
-            SystemWideLogging.InitiateClass();
+           // SystemWideLogging.LogServiceClient.LogEvent("Bank :: Bank.Application\\Bank.Process\\Program.cs :: static void Main(string[] args)", "Service started");
 
-
-            SystemWideLogging.LogServiceClient.LogEvent("Bank :: Bank.Application\\Bank.Process\\Program.cs :: static void Main(string[] args)", "Service started");
-            
-
-            
-            
             EnsureMessageQueuesExists();
             ResolveDependencies();
             EnsureMessageQueuesExists();
@@ -45,10 +32,7 @@ namespace Bank.Process
             HostServices();
 
 
-            SystemWideLogging.LogServiceClient.LogEvent("Bank :: Bank.Application\\Bank.Process\\Program.cs :: static void Main(string[] args)", "Service ended");
-
-
-
+           // SystemWideLogging.LogServiceClient.LogEvent("Bank :: Bank.Application\\Bank.Process\\Program.cs :: static void Main(string[] args)", "Service ended");
         }
 
         private static void HostServices()

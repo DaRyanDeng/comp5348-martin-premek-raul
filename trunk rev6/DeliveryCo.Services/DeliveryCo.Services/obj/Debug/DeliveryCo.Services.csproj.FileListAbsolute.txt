@@ -322,3 +322,15 @@ E:\Usyd\COMP5348\Assignment2\Ver41\DeliveryCo.Services\DeliveryCo.Services\bin\D
 E:\Usyd\COMP5348\Assignment2\Ver41\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\ResolveAssemblyReference.cache
 E:\Usyd\COMP5348\Assignment2\Ver41\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\DeliveryCo.Services.dll
 E:\Usyd\COMP5348\Assignment2\Ver41\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\DeliveryCo.Services.pdb
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Services.dll
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Services.pdb
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Business.Components.Interfaces.dll
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Business.Components.Interfaces.pdb
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\DeliveryCo.Services.dll
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\DeliveryCo.Services.pdb

@@ -254,3 +254,11 @@ E:\Usyd\COMP5348\Assignment2\Ver41\VideoStore.Entities\VideoStore.Business.Entit
 E:\Usyd\COMP5348\Assignment2\Ver41\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\ResolveAssemblyReference.cache
 E:\Usyd\COMP5348\Assignment2\Ver41\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.dll
 E:\Usyd\COMP5348\Assignment2\Ver41\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.pdb
+C:\Users\Raul\Desktop\trunk rev6\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.dll.config
+C:\Users\Raul\Desktop\trunk rev6\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.dll
+C:\Users\Raul\Desktop\trunk rev6\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.pdb
+C:\Users\Raul\Desktop\trunk rev6\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\Common.dll
+C:\Users\Raul\Desktop\trunk rev6\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\Common.pdb
+C:\Users\Raul\Desktop\trunk rev6\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Raul\Desktop\trunk rev6\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.dll
+C:\Users\Raul\Desktop\trunk rev6\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.pdb

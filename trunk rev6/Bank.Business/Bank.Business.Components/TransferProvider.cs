@@ -35,7 +35,7 @@ namespace Bank.Business.Components
                     lScope.Complete();
 
 
-                    SystemWideLogging.LogServiceClient.LogEvent("Bank :: Bank.Business\\Bank.Business.Components\\TransferProvider.cs  :: public void Transfer(double pAmount, int pFromAcctNumber, int pToAcctNumber, String pDescription)", "Transfer Request Succeeded (pAmount=" + pAmount + " , pFromAcctNumber=" + pFromAcctNumber + " , pToAcctNumber=" + pToAcctNumber + " , pDescription=" + pDescription + " , lMessage= " + lMessage + " )");
+                    //SystemWideLogging.LogServiceClient.LogEvent("Bank :: Bank.Business\\Bank.Business.Components\\TransferProvider.cs  :: public void Transfer(double pAmount, int pFromAcctNumber, int pToAcctNumber, String pDescription)", "Transfer Request Succeeded (pAmount=" + pAmount + " , pFromAcctNumber=" + pFromAcctNumber + " , pToAcctNumber=" + pToAcctNumber + " , pDescription=" + pDescription + " , lMessage= " + lMessage + " )");
                 
 
                 }
@@ -43,7 +43,7 @@ namespace Bank.Business.Components
             catch (Exception lException)
             {
 
-                SystemWideLogging.LogServiceClient.LogEvent("Bank :: Bank.Business\\Bank.Business.Components\\TransferProvider.cs  :: public void Transfer(double pAmount, int pFromAcctNumber, int pToAcctNumber, String pDescription)", "Transfer Request Failed (pAmount=" + pAmount + " , pFromAcctNumber=" + pFromAcctNumber + " , pToAcctNumber=" + pToAcctNumber + " , pDescription=" + pDescription + " , lMessage= " + lMessage + " )");
+               // SystemWideLogging.LogServiceClient.LogEvent("Bank :: Bank.Business\\Bank.Business.Components\\TransferProvider.cs  :: public void Transfer(double pAmount, int pFromAcctNumber, int pToAcctNumber, String pDescription)", "Transfer Request Failed (pAmount=" + pAmount + " , pFromAcctNumber=" + pFromAcctNumber + " , pToAcctNumber=" + pToAcctNumber + " , pDescription=" + pDescription + " , lMessage= " + lMessage + " )");
                 
                 Console.WriteLine("Error occured while transferring money:  " + lException.Message);
                 lMessage = lException.Message;
@@ -62,7 +62,7 @@ namespace Bank.Business.Components
                 }
                 catch (Exception lException)
                 {
-                    SystemWideLogging.LogServiceClient.LogEvent("Bank :: Bank.Business\\Bank.Business.Components\\TransferProvider.cs  :: public void Transfer(double pAmount, int pFromAcctNumber, int pToAcctNumber, String pDescription)", "Error occured when sending Notification of Transfer Outcome to VideoStore (lException.Message=" + lException.Message+ ")");
+                   // SystemWideLogging.LogServiceClient.LogEvent("Bank :: Bank.Business\\Bank.Business.Components\\TransferProvider.cs  :: public void Transfer(double pAmount, int pFromAcctNumber, int pToAcctNumber, String pDescription)", "Error occured when sending Notification of Transfer Outcome to VideoStore (lException.Message=" + lException.Message+ ")");
                 }
 
 

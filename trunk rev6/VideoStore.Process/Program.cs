@@ -28,20 +28,15 @@ namespace VideoStore.Process
         static void Main(string[] args)
         {
 
-            SystemWideLogging.InitiateClass();
-
-            SystemWideLogging.LogServiceClient.LogEvent("VideoStore :: VideoStore.Process\\Program.cs  :: static void Main(string[] args)", "Service started");
-            
+           // SystemWideLogging.InitiateClass();
+          //  SystemWideLogging.LogServiceClient.LogEvent("VideoStore :: VideoStore.Process\\Program.cs  :: static void Main(string[] args)", "Service started");  
 
             EnsureMessageQueuesExists();
             ResolveDependencies();
             InsertDummyEntities();
             HostServices();
-
-
-            SystemWideLogging.LogServiceClient.LogEvent("VideoStore :: VideoStore.Process\\Program.cs  :: static void Main(string[] args)", "Service ended");
             
-
+           // SystemWideLogging.LogServiceClient.LogEvent("VideoStore :: VideoStore.Process\\Program.cs  :: static void Main(string[] args)", "Service ended");
         }
 
         private static void InsertDummyEntities()
@@ -52,11 +47,16 @@ namespace VideoStore.Process
         }
 
         private static readonly String sPublishQueuePath = ".\\private$\\BankTransferNotificationQueueTransacted";
+        private static readonly String sPublishQueuePath2 = ".\\private$\\EmailNotificationQueue";
         private static void EnsureMessageQueuesExists()
         {
             // Create the transacted MSMQ queue if necessary.
             if (!MessageQueue.Exists(sPublishQueuePath))
                 MessageQueue.Create(sPublishQueuePath, true);
+
+            // Create the transacted MSMQ queue if necessary.
+            if (!MessageQueue.Exists(sPublishQueuePath2))
+                MessageQueue.Create(sPublishQueuePath2, true);
         }
 
         private static void CreateUser()

@@ -123,3 +123,9 @@ E:\Usyd\COMP5348\Assignment2\Ver41\EmailService.Business.Entities\bin\Debug\Emai
 E:\Usyd\COMP5348\Assignment2\Ver41\EmailService.Business.Entities\obj\x86\Debug\ResolveAssemblyReference.cache
 E:\Usyd\COMP5348\Assignment2\Ver41\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.exe
 E:\Usyd\COMP5348\Assignment2\Ver41\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.pdb
+C:\Users\Raul\Desktop\trunk rev6\EmailService.Business.Entities\bin\Debug\EmailService.Business.Entities.exe
+C:\Users\Raul\Desktop\trunk rev6\EmailService.Business.Entities\bin\Debug\EmailService.Business.Entities.pdb
+C:\Users\Raul\Desktop\trunk rev6\EmailService.Business.Entities\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Raul\Desktop\trunk rev6\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.exe
+C:\Users\Raul\Desktop\trunk rev6\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.pdb
+C:\Users\Raul\Desktop\trunk rev6\EmailService.Business.Entities\bin\Debug\EmailService.Business.Entities.exe.config

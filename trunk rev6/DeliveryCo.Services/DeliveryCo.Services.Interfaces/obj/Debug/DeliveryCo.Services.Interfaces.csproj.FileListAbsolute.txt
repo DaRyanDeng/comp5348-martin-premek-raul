@@ -222,3 +222,10 @@ E:\Usyd\COMP5348\Assignment2\Ver41\DeliveryCo.Services\DeliveryCo.Services.Inter
 E:\Usyd\COMP5348\Assignment2\Ver41\DeliveryCo.Services\DeliveryCo.Services.Interfaces\obj\Debug\ResolveAssemblyReference.cache
 E:\Usyd\COMP5348\Assignment2\Ver41\DeliveryCo.Services\DeliveryCo.Services.Interfaces\obj\Debug\DeliveryCo.Services.Interfaces.dll
 E:\Usyd\COMP5348\Assignment2\Ver41\DeliveryCo.Services\DeliveryCo.Services.Interfaces\obj\Debug\DeliveryCo.Services.Interfaces.pdb
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Services\DeliveryCo.Services.Interfaces\bin\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Services\DeliveryCo.Services.Interfaces\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Services\DeliveryCo.Services.Interfaces\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Services\DeliveryCo.Services.Interfaces\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Services\DeliveryCo.Services.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Services\DeliveryCo.Services.Interfaces\obj\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Services\DeliveryCo.Services.Interfaces\obj\Debug\DeliveryCo.Services.Interfaces.pdb

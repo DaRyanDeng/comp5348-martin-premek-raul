@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using VideoStore.Business.Components.Interfaces;
+using VideoStore.Business.Components.EmailService;
 using VideoStore.Business.Entities;
 using Microsoft.Practices.ServiceLocation;
 using System.Transactions;
@@ -22,19 +23,15 @@ namespace VideoStore.Business.Components
             UpdateDeliveryStatus(pDeliveryId, status);
             if (status == Entities.DeliveryStatus.Delivered)
             {
-                EmailProvider.SendMessage(new EmailMessage()
-                {
-                    ToAddress = lAffectedOrder.Customer.Email,
-                    Message = "Our records show that your order" +lAffectedOrder.OrderNumber + " has been delivered. Thank you for shopping at video store"
-                });
+                String message = "Our records show that your order" + lAffectedOrder.OrderNumber + " has been delivered. Thank you for shopping at video store";
+                String address = lAffectedOrder.Customer.Email;
+                EmailProvider.SendMessage(message, address);
             }
             if (status == Entities.DeliveryStatus.Failed)
             {
-                EmailProvider.SendMessage(new EmailMessage()
-                {
-                    ToAddress = lAffectedOrder.Customer.Email,
-                    Message = "Our records show that there was a problem" + lAffectedOrder.OrderNumber + " delivering your order. Please contact Video Store"
-                });
+                String message = "Our records show that there was a problem" + lAffectedOrder.OrderNumber + " delivering your order. Please contact Video Store";
+                String address = lAffectedOrder.Customer.Email;
+                EmailProvider.SendMessage(message, address);
             }
         }
 

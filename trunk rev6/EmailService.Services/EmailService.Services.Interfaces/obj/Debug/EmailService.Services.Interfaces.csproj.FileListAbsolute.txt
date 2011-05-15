@@ -173,3 +173,10 @@ E:\Usyd\COMP5348\Assignment2\Ver41\EmailService.Services\EmailService.Services.I
 E:\Usyd\COMP5348\Assignment2\Ver41\EmailService.Services\EmailService.Services.Interfaces\obj\Debug\ResolveAssemblyReference.cache
 E:\Usyd\COMP5348\Assignment2\Ver41\EmailService.Services\EmailService.Services.Interfaces\obj\Debug\EmailService.Services.Interfaces.dll
 E:\Usyd\COMP5348\Assignment2\Ver41\EmailService.Services\EmailService.Services.Interfaces\obj\Debug\EmailService.Services.Interfaces.pdb
+C:\Users\Raul\Desktop\trunk rev6\EmailService.Services\EmailService.Services.Interfaces\bin\Debug\EmailService.Services.Interfaces.dll
+C:\Users\Raul\Desktop\trunk rev6\EmailService.Services\EmailService.Services.Interfaces\bin\Debug\EmailService.Services.Interfaces.pdb
+C:\Users\Raul\Desktop\trunk rev6\EmailService.Services\EmailService.Services.Interfaces\bin\Debug\EmailService.Business.Entities.exe
+C:\Users\Raul\Desktop\trunk rev6\EmailService.Services\EmailService.Services.Interfaces\bin\Debug\EmailService.Business.Entities.pdb
+C:\Users\Raul\Desktop\trunk rev6\EmailService.Services\EmailService.Services.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Raul\Desktop\trunk rev6\EmailService.Services\EmailService.Services.Interfaces\obj\Debug\EmailService.Services.Interfaces.dll
+C:\Users\Raul\Desktop\trunk rev6\EmailService.Services\EmailService.Services.Interfaces\obj\Debug\EmailService.Services.Interfaces.pdb

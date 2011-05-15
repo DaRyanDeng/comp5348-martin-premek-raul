@@ -187,3 +187,10 @@ E:\Usyd\COMP5348\Assignment2\Ver41\DeliveryCo.Business\DeliveryCo.Business.Compo
 E:\Usyd\COMP5348\Assignment2\Ver41\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\ResolveAssemblyReference.cache
 E:\Usyd\COMP5348\Assignment2\Ver41\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.dll
 E:\Usyd\COMP5348\Assignment2\Ver41\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.pdb
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\DeliveryCo.Business.Components.Interfaces.dll
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\DeliveryCo.Business.Components.Interfaces.pdb
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.dll
+C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.pdb
