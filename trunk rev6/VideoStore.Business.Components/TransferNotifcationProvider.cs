@@ -25,7 +25,7 @@ namespace VideoStore.Business.Components
         {
 
 
-            SystemWideLogging.LogServiceClient.LogEvent("Bank :: Bank.Business\\Bank.Business.Components\\TransferNotificationProvider.cs  :: public void NotifyTransferOutcome(bool pOutcome, string pMessage, string pDescription)", "Asynchronous Transfer Notification Received from Bank (pOutcome="+pOutcome+" , pMessage="+pMessage+" , pDescription="+pDescription+" )");
+            SystemWideLogging.LogServiceClient.LogEvent("VideoStore :: VideoStore.Business.Components\\TransferNotifcationProvider.cs :: public void NotifyTransferOutcome(bool pOutcome, string pMessage, string pDescription)", "Asynchronous Transfer Notification Received from Bank (pOutcome=" + pOutcome + " , pMessage=" + pMessage + " , pDescription=" + pDescription + " )");
                 
             
             using (TransactionScope lScope = new TransactionScope())

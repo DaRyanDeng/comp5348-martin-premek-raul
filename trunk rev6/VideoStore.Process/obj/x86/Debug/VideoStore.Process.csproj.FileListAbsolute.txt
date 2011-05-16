@@ -717,3 +717,6 @@ E:\Usyd\COMP5348\Assignment2\Ver55\VideoStore.Process\bin\Debug\Common.pdb
 E:\Usyd\COMP5348\Assignment2\Ver55\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.pdb
 E:\Usyd\COMP5348\Assignment2\Ver55\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.pdb
 E:\Usyd\COMP5348\Assignment2\Ver55\VideoStore.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver56\VideoStore.Process\bin\Debug\VideoStore.Process.exe.config
+E:\Usyd\COMP5348\Assignment2\Ver56\VideoStore.Process\obj\x86\Debug\VideoStore.Process.exe
+E:\Usyd\COMP5348\Assignment2\Ver56\VideoStore.Process\obj\x86\Debug\VideoStore.Process.pdb
