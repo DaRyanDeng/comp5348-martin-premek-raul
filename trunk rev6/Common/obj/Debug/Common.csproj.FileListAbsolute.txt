@@ -178,3 +178,13 @@ C:\Users\Raul\Desktop\trunk rev6\Common\bin\Debug\Common.pdb
 C:\Users\Raul\Desktop\trunk rev6\Common\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Raul\Desktop\trunk rev6\Common\obj\Debug\Common.dll
 C:\Users\Raul\Desktop\trunk rev6\Common\obj\Debug\Common.pdb
+E:\Usyd\COMP5348\Assignment2\Ver54\Common\bin\Debug\Common.dll
+E:\Usyd\COMP5348\Assignment2\Ver54\Common\bin\Debug\Common.pdb
+E:\Usyd\COMP5348\Assignment2\Ver54\Common\obj\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver54\Common\obj\Debug\Common.dll
+E:\Usyd\COMP5348\Assignment2\Ver54\Common\obj\Debug\Common.pdb
+E:\Usyd\COMP5348\Assignment2\Ver55\Common\bin\Debug\Common.dll
+E:\Usyd\COMP5348\Assignment2\Ver55\Common\bin\Debug\Common.pdb
+E:\Usyd\COMP5348\Assignment2\Ver55\Common\obj\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver55\Common\obj\Debug\Common.dll
+E:\Usyd\COMP5348\Assignment2\Ver55\Common\obj\Debug\Common.pdb

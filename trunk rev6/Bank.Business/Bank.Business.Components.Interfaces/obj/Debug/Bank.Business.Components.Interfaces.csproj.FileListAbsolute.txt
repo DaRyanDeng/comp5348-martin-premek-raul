@@ -38,3 +38,13 @@ C:\Users\Raul\Desktop\trunk rev6\Bank.Business\Bank.Business.Components.Interfac
 C:\Users\Raul\Desktop\trunk rev6\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Raul\Desktop\trunk rev6\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.dll
 C:\Users\Raul\Desktop\trunk rev6\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver54\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver54\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver54\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver54\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver54\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver55\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver55\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver55\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver55\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver55\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.pdb

@@ -130,7 +130,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="AfterSQLPatch1.sql" />
-    <Content Include="BeforeSQLPatch1.sql" />
     <Content Include="VideoStoreEntityModel.edmx.sql" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

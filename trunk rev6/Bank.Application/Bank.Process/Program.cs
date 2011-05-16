@@ -21,9 +21,9 @@ namespace Bank.Process
         static void Main(string[] args)
         {
    
-           // SystemWideLogging.InitiateClass();
+           SystemWideLogging.InitiateClass();
 
-           // SystemWideLogging.LogServiceClient.LogEvent("Bank :: Bank.Application\\Bank.Process\\Program.cs :: static void Main(string[] args)", "Service started");
+           SystemWideLogging.LogServiceClient.LogEvent("Bank :: Bank.Application\\Bank.Process\\Program.cs :: static void Main(string[] args)", "Service started");
 
             EnsureMessageQueuesExists();
             ResolveDependencies();
@@ -32,7 +32,7 @@ namespace Bank.Process
             HostServices();
 
 
-           // SystemWideLogging.LogServiceClient.LogEvent("Bank :: Bank.Application\\Bank.Process\\Program.cs :: static void Main(string[] args)", "Service ended");
+           SystemWideLogging.LogServiceClient.LogEvent("Bank :: Bank.Application\\Bank.Process\\Program.cs :: static void Main(string[] args)", "Service ended");
         }
 
         private static void HostServices()
@@ -52,6 +52,10 @@ namespace Bank.Process
             if (!MessageQueue.Exists(sPublishQueuePath))
                 MessageQueue.Create(sPublishQueuePath, true);
         }
+
+
+
+
 
         private static void CreateDummyEntities()
         {

@@ -196,3 +196,15 @@ C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Business\DeliveryCo.Business.Entitie
 C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.dll
 C:\Users\Raul\Desktop\trunk rev6\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver54\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.dll.config
+E:\Usyd\COMP5348\Assignment2\Ver54\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver54\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver54\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver54\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver54\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver55\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.dll.config
+E:\Usyd\COMP5348\Assignment2\Ver55\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver55\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver55\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver55\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver55\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.pdb

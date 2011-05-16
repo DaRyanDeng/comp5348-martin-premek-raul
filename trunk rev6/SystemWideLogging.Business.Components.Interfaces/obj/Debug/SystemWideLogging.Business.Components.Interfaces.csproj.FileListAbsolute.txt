@@ -88,3 +88,25 @@ C:\Users\Raul\Desktop\trunk rev6\SystemWideLogging.Business.Components.Interface
 C:\Users\Raul\Desktop\trunk rev6\SystemWideLogging.Business.Components.Interfaces\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Raul\Desktop\trunk rev6\SystemWideLogging.Business.Components.Interfaces\obj\Debug\SystemWideLogging.Business.Components.Interfaces.dll
 C:\Users\Raul\Desktop\trunk rev6\SystemWideLogging.Business.Components.Interfaces\obj\Debug\SystemWideLogging.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver54\SystemWideLogging.Business.Components.Interfaces\bin\Debug\SystemWideLogging.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver54\SystemWideLogging.Business.Components.Interfaces\bin\Debug\SystemWideLogging.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver54\SystemWideLogging.Business.Components.Interfaces\bin\Debug\SystemWideLogging.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver54\SystemWideLogging.Business.Components.Interfaces\bin\Debug\VideoStore.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver54\SystemWideLogging.Business.Components.Interfaces\bin\Debug\Common.dll
+E:\Usyd\COMP5348\Assignment2\Ver54\SystemWideLogging.Business.Components.Interfaces\bin\Debug\SystemWideLogging.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver54\SystemWideLogging.Business.Components.Interfaces\bin\Debug\VideoStore.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver54\SystemWideLogging.Business.Components.Interfaces\bin\Debug\Common.pdb
+E:\Usyd\COMP5348\Assignment2\Ver54\SystemWideLogging.Business.Components.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver54\SystemWideLogging.Business.Components.Interfaces\obj\Debug\SystemWideLogging.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver54\SystemWideLogging.Business.Components.Interfaces\obj\Debug\SystemWideLogging.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver55\SystemWideLogging.Business.Components.Interfaces\bin\Debug\SystemWideLogging.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver55\SystemWideLogging.Business.Components.Interfaces\bin\Debug\SystemWideLogging.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver55\SystemWideLogging.Business.Components.Interfaces\bin\Debug\SystemWideLogging.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver55\SystemWideLogging.Business.Components.Interfaces\bin\Debug\VideoStore.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver55\SystemWideLogging.Business.Components.Interfaces\bin\Debug\Common.dll
+E:\Usyd\COMP5348\Assignment2\Ver55\SystemWideLogging.Business.Components.Interfaces\bin\Debug\SystemWideLogging.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver55\SystemWideLogging.Business.Components.Interfaces\bin\Debug\VideoStore.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver55\SystemWideLogging.Business.Components.Interfaces\bin\Debug\Common.pdb
+E:\Usyd\COMP5348\Assignment2\Ver55\SystemWideLogging.Business.Components.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver55\SystemWideLogging.Business.Components.Interfaces\obj\Debug\SystemWideLogging.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver55\SystemWideLogging.Business.Components.Interfaces\obj\Debug\SystemWideLogging.Business.Components.Interfaces.pdb

@@ -58,7 +58,6 @@
     <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="app.config" />
     <None Include="Service References\EmailServiceVideo\service.wsdl" />
     <None Include="Service References\EmailServiceVideo\service.xsd">
       <SubType>Designer</SubType>
