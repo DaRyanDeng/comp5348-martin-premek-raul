@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.ServiceModel;
 
 namespace DeliveryCo.Services.Interfaces
@@ -13,5 +10,8 @@ namespace DeliveryCo.Services.Interfaces
     {
         [OperationContract]
         void NotifyDeliveryCompletion(Guid pDeliveryId, DeliveryInfoStatus status);
+
+        [OperationContract]
+        void NotifyDeliverySubmission(Guid orderNumber, Guid pDeliveryId);
     }
 }

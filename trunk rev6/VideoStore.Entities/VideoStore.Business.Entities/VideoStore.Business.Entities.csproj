@@ -74,9 +74,6 @@
     <Compile Include="Stock.cs">
       <DependentUpon>VideoEntityModel.tt</DependentUpon>
     </Compile>
-    <Compile Include="SystemLog.cs">
-      <DependentUpon>VideoEntityModel.tt</DependentUpon>
-    </Compile>
     <Compile Include="User.cs">
       <DependentUpon>VideoEntityModel.tt</DependentUpon>
     </Compile>
@@ -126,10 +123,6 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <None Include="VideoStoreEntityModel.edmx.sqlold" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="AfterSQLPatch1.sql" />
     <Content Include="VideoStoreEntityModel.edmx.sql" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

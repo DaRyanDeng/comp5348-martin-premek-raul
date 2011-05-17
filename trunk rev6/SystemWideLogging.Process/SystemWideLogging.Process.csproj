@@ -104,7 +104,7 @@
     </ProjectReference>
     <ProjectReference Include="..\SystemWideLogging.Services\SystemWideLogging.Services.csproj">
       <Project>{622CD182-2DF9-422C-8B0B-D8C74704D20C}</Project>
-      <Name>SystemWideLogging.Services %28Applications\SystemWideLoggingService\SystemWideLogging.Services\SystemWideLogging.Services%29</Name>
+      <Name>SystemWideLogging.Services</Name>
     </ProjectReference>
     <ProjectReference Include="..\VideoStore.Business.Components.Interfaces\VideoStore.Business.Components.Interfaces.csproj">
       <Project>{2851CEF3-00F9-4AFB-9306-0D6E0BDD45E3}</Project>

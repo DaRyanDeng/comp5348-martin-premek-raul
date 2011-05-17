@@ -1,17 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System.Linq;
 using VideoStore.Business.Components.Interfaces;
 using VideoStore.Business.Entities;
 using System.Transactions;
-using System.ComponentModel.Composition;
 
 namespace VideoStore.Business.Components
 {
     public class UserProvider : IUserProvider
     {
-        public void CreateUser(VideoStore.Business.Entities.User pUser)
+        public void CreateUser(User pUser)
         {
             using(TransactionScope lScope = new TransactionScope())
             using (VideoStoreEntityModelContainer lContainer = new VideoStoreEntityModelContainer())

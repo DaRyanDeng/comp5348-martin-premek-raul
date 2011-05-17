@@ -9,12 +9,10 @@ namespace VideoStore.Business.Components
 {
     public class RoleProvider : IRoleProvider
     {
-        public List<Role> GetRolesForUser(Entities.User pUser)
+        public List<Role> GetRolesForUser(User pUser)
         {
             throw new NotImplementedException();
         }
-
-
 
         public List<Role> GetRolesForUserName(string pUserName)
         {

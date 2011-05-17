@@ -1,12 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using DeliveryCo.Business.Entities;
 
 namespace DeliveryCo.Business.Components.Interfaces
 {
     public interface IDeliveryProvider
     {
-        Guid SubmitDelivery(DeliveryCo.Business.Entities.DeliveryInfo pDeliveryInfo);
+        void SubmitDelivery(DeliveryInfo pDeliveryInfo);
     }
 }

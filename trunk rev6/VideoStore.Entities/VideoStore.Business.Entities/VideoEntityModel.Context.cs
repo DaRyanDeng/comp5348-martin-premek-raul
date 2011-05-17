@@ -124,12 +124,6 @@ namespace VideoStore.Business.Entities
             get { return _roles  ?? (_roles = CreateObjectSet<Role>("Roles")); }
         }
         private ObjectSet<Role> _roles;
-    
-        public ObjectSet<SystemLog> SystemLogs
-        {
-            get { return _systemLogs  ?? (_systemLogs = CreateObjectSet<SystemLog>("SystemLogs")); }
-        }
-        private ObjectSet<SystemLog> _systemLogs;
 
         #endregion
     }

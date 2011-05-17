@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 namespace VideoStore.Business.Entities
 {
@@ -19,6 +16,14 @@ namespace VideoStore.Business.Entities
                 {
                     throw new Exception("Cannot place an order - no more stock for media item");
                 }
+            }
+        }
+
+        public void RollbackStockLevels()
+        {
+            foreach (OrderItem lItem in this.OrderItems)
+            {
+                lItem.Media.Stocks.Quantity += lItem.Quantity;
             }
         }
     }

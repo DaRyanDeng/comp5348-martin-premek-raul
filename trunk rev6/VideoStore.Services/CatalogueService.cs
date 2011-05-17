@@ -1,11 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+using Common;
 using VideoStore.Services.Interfaces;
 using VideoStore.Business.Entities;
 using VideoStore.Business.Components.Interfaces;
-using Microsoft.Practices.ServiceLocation;
 
 namespace VideoStore.Services
 {

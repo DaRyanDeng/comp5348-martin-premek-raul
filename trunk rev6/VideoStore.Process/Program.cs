@@ -1,35 +1,24 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.ServiceModel;
-using VideoStore.Services;
-using System.ServiceModel.Configuration;
 using System.Configuration;
-using System.ComponentModel.Composition.Hosting;
-using VideoStore.Services.Interfaces;
+using System.Linq;
+using System.Messaging;
+using System.ServiceModel;
+using System.ServiceModel.Configuration;
+using System.Transactions;
 using Microsoft.Practices.ServiceLocation;
-using Microsoft.Practices.Unity.ServiceLocatorAdapter;
 using Microsoft.Practices.Unity;
 using Microsoft.Practices.Unity.Configuration;
-using VideoStore.Business.Entities;
-using System.Transactions;
-using System.ServiceModel.Description;
-using VideoStore.Business.Components.Interfaces;
-using System.Messaging;
+using Microsoft.Practices.Unity.ServiceLocatorAdapter;
 using SystemWideLoggingClientNS;
-
-
+using VideoStore.Business.Components.Interfaces;
+using VideoStore.Business.Entities;
 
 namespace VideoStore.Process
 {
     public class Program
     {
-
-
         static bool UtilizeBackupBankHighAvailabilityMechanism = true;
-
-
 
         static void Main(string[] args)
         {
@@ -226,10 +215,6 @@ namespace VideoStore.Process
                 }
             }
         }
-
-
-
-
 
         private static String GetAssemblyQualifiedServiceName(String pServiceName)
         {

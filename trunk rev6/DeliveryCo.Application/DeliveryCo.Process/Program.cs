@@ -1,14 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.ServiceModel;
-using DeliveryCo.Services;
-using Microsoft.Practices.Unity;
-using Microsoft.Practices.Unity.Configuration;
-using Microsoft.Practices.Unity.ServiceLocatorAdapter;
-using Microsoft.Practices.ServiceLocation;
-using System.Configuration;
+using System.Threading;
 
 namespace DeliveryCo.Process
 {
@@ -16,25 +7,13 @@ namespace DeliveryCo.Process
     {
         static void Main(string[] args)
         {
-            ResolveDependencies();
-            using (ServiceHost lHost = new ServiceHost(typeof(DeliveryService)))
+            // Wait 3 seconds just in case if you launch this service by F5 on solution
+            Thread.Sleep(TimeSpan.FromSeconds(3));
+
+            using (var invoker = new DeliveryLauncher())
             {
-                lHost.Open();
-                Console.WriteLine("Delivery Service started. Press Q to quit");
-                while (Console.ReadKey().Key != ConsoleKey.Q) ;
+                invoker.Run();
             }
-
-        }
-
-        private static void ResolveDependencies()
-        {
-
-            UnityContainer lContainer = new UnityContainer();
-            UnityConfigurationSection lSection
-                    = (UnityConfigurationSection)ConfigurationManager.GetSection("unity");
-            lSection.Containers["containerOne"].Configure(lContainer);
-            UnityServiceLocator locator = new UnityServiceLocator(lContainer);
-            ServiceLocator.SetLocatorProvider(() => locator);
         }
     }
 }

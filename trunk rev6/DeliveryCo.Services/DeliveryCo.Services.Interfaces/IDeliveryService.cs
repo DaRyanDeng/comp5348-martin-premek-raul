@@ -1,17 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System.ServiceModel;
+using Common;
 using DeliveryCo.Business.Entities;
-using System.ServiceModel;
 
 namespace DeliveryCo.Services.Interfaces
 {
     [ServiceContract]
-    public interface IDeliveryService
+    public interface IDeliveryService : ISubscriberService
     {
         [OperationContract]
-        [TransactionFlow(TransactionFlowOption.Allowed)]
-        Guid SubmitDelivery(DeliveryInfo pDeliveryInfo);
+        void SubmitDelivery(DeliveryInfo pDeliveryInfo);
     }
 }

@@ -1,16 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Transactions;
-using VideoStore.Business.Entities;
-using VideoStore.Business.Components.DeliveryService;
+using Common.Messages;
 using Microsoft.Practices.ServiceLocation;
-using VideoStore.Business.Components.Interfaces;
 using SystemWideLoggingClientNS;
-using VideoStore.Business.Components.EmailService;
-
-
+using VideoStore.Business.Components.Interfaces;
+using VideoStore.Business.Components.PublisherService;
+using VideoStore.Business.Entities;
 
 namespace VideoStore.Business.Components
 {
@@ -23,12 +19,9 @@ namespace VideoStore.Business.Components
 
         public void NotifyTransferOutcome(bool pOutcome, string pMessage, string pDescription)
         {
-
-
             SystemWideLogging.LogServiceClient.LogEvent("VideoStore :: VideoStore.Business.Components\\TransferNotifcationProvider.cs :: public void NotifyTransferOutcome(bool pOutcome, string pMessage, string pDescription)", "Asynchronous Transfer Notification Received from Bank (pOutcome=" + pOutcome + " , pMessage=" + pMessage + " , pDescription=" + pDescription + " )");
-                
-            
-            using (TransactionScope lScope = new TransactionScope())
+
+            using (var lScope = new TransactionScope())
             {
                 Order lOrder = ServiceLocator.Current.GetInstance<IOrderProvider>().GetOrderByOrderNumber(Guid.Parse(pDescription));
                 if (pOutcome)
@@ -39,6 +32,7 @@ namespace VideoStore.Business.Components
                 else
                 {
                     //roll back stock
+                    RollbackOrder(lOrder.OrderNumber);
                     //send message to user
                     SendEmailNotification(pOutcome, lOrder); 
                 }
@@ -46,37 +40,59 @@ namespace VideoStore.Business.Components
             }
         }
 
+        private static void RollbackOrder(Guid orderNumber)
+        {
+            using (var lScope = new TransactionScope())
+            using (var lContainer = new VideoStoreEntityModelContainer())
+            {
+                Order order = lContainer.Orders.Where(o => o.OrderNumber == orderNumber).SingleOrDefault();
+                if (order != null)
+                {
+                    order.RollbackStockLevels();
+                    lContainer.SaveChanges();
+                }
+                lScope.Complete();
+            }
+        }
+
         private void PlaceDeliveryForOrder(Order pOrder)
         {
-            using(VideoStoreEntityModelContainer lContainer = new VideoStoreEntityModelContainer())
-            using (TransactionScope lScope = new TransactionScope())
+            var deliveryMessage = new DeliveryRequestMessage
             {
-                lContainer.Orders.Attach(pOrder);
+                Identifier = Guid.NewGuid(),
+                DestinationAddress = pOrder.Customer.Address,
+                SourceAddress = "Video Store Address",
+                Publisher = "VideoStore.App",
+                OrderNumber = pOrder.OrderNumber,
+                TopicName = "Delivery",
+                RegionName = "APAC/Australia",
+            };
 
-                Delivery lDelivery = new Delivery() { DeliveryStatus = DeliveryStatus.Submitted, SourceAddress = "Video Store Address", DestinationAddress = pOrder.Customer.Address };
+            PublisherService.Publish(deliveryMessage);
 
-                DeliveryServiceClient lClient = new DeliveryServiceClient();
-                Guid lDeliveryIdentifier = lClient.SubmitDelivery(new DeliveryInfo()
-                {
-                    OrderNumber = pOrder.OrderNumber.ToString(),
-                    SourceAddress = lDelivery.SourceAddress,
-                    DestinationAddress = lDelivery.DestinationAddress,
-                    DeliveryNotificationAddress = "net.tcp://localhost:9010/DeliveryNotificationService"
-                });
+            var lDelivery = new Delivery
+            {
+                DeliveryStatus = DeliveryStatus.Submitted,
+                SourceAddress = deliveryMessage.SourceAddress,
+                DestinationAddress = deliveryMessage.DestinationAddress,
+                Order = pOrder,
+                ExternalDeliveryIdentifier = deliveryMessage.Identifier,
+            };
+            pOrder.Delivery = lDelivery;
 
-                lDelivery.ExternalDeliveryIdentifier = lDeliveryIdentifier;
-                lDelivery.Order = pOrder;
-                lContainer.Deliveries.AddObject(lDelivery);
-                lContainer.SaveChanges();
-                lScope.Complete();
+            Console.WriteLine("Order '{0}' has submitted.", pOrder.OrderNumber);
+        }
 
-            }
 
+        private IPublisherService _publisherService;
+        private IPublisherService PublisherService
+        {
+            get { return _publisherService ?? (_publisherService = new PublisherServiceClient()); }
         }
 
         private void SendEmailNotification(bool pOutcome, Order pOrder)
         {
-            String message = "";
+            String message;
             if (pOutcome)
             {
                 message = "your order " + pOrder.OrderNumber + " has been placed";

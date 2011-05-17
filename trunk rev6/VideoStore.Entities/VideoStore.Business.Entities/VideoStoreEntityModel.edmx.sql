@@ -2,8 +2,8 @@
 -- --------------------------------------------------
 -- Entity Designer DDL Script for SQL Server 2005, 2008, and Azure
 -- --------------------------------------------------
--- Date Created: 05/10/2011 19:36:34
--- Generated from EDMX file: E:\Usyd\EnterpriseScaleSoftwareArchitecture\Assignment2\SVNRepository\Ver2\VideoStore.Entities\VideoStore.Business.Entities\VideoStoreEntityModel.edmx
+-- Date Created: 04/17/2011 18:52:16
+-- Generated from EDMX file: C:\Users\Matt\Desktop\PracTaskB\VideoStore.Entities\VideoStore.Business.Entities\VideoStoreEntityModel.edmx
 -- --------------------------------------------------
 
 SET QUOTED_IDENTIFIER OFF;
@@ -69,9 +69,6 @@ IF OBJECT_ID(N'[dbo].[Media]', 'U') IS NOT NULL
 GO
 IF OBJECT_ID(N'[dbo].[Roles]', 'U') IS NOT NULL
     DROP TABLE [dbo].[Roles];
-GO
-IF OBJECT_ID(N'[dbo].[SystemLogs]', 'U') IS NOT NULL
-    DROP TABLE [dbo].[SystemLogs];
 GO
 IF OBJECT_ID(N'[dbo].[UserRole]', 'U') IS NOT NULL
     DROP TABLE [dbo].[UserRole];
@@ -159,15 +156,6 @@ CREATE TABLE [dbo].[Roles] (
 );
 GO
 
--- Creating table 'SystemLogs'
-CREATE TABLE [dbo].[SystemLogs] (
-    [Id] int IDENTITY(1,1) NOT NULL,
-    [EventTime] datetime  NOT NULL,
-    [Source] nvarchar(max)  NOT NULL,
-    [Message] nvarchar(max)  NOT NULL
-);
-GO
-
 -- Creating table 'UserRole'
 CREATE TABLE [dbo].[UserRole] (
     [User_Id] int  NOT NULL,
@@ -224,12 +212,6 @@ GO
 -- Creating primary key on [Id] in table 'Roles'
 ALTER TABLE [dbo].[Roles]
 ADD CONSTRAINT [PK_Roles]
-    PRIMARY KEY CLUSTERED ([Id] ASC);
-GO
-
--- Creating primary key on [Id] in table 'SystemLogs'
-ALTER TABLE [dbo].[SystemLogs]
-ADD CONSTRAINT [PK_SystemLogs]
     PRIMARY KEY CLUSTERED ([Id] ASC);
 GO
 

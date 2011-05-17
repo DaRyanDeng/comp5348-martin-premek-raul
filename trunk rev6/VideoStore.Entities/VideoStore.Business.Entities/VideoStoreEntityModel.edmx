@@ -14,7 +14,6 @@
     <EntitySet Name="LoginCredentials" EntityType="VideoStoreEntityModel.Store.LoginCredentials" store:Type="Tables" Schema="dbo" />
     <EntitySet Name="Media" EntityType="VideoStoreEntityModel.Store.Media" store:Type="Tables" Schema="dbo" />
     <EntitySet Name="Roles" EntityType="VideoStoreEntityModel.Store.Roles" store:Type="Tables" Schema="dbo" />
-    <EntitySet Name="SystemLogs" EntityType="VideoStoreEntityModel.Store.SystemLogs" store:Type="Tables" Schema="dbo" />
     <EntitySet Name="UserRole" EntityType="VideoStoreEntityModel.Store.UserRole" store:Type="Tables" Schema="dbo" />
     <AssociationSet Name="OrderOrderItem" Association="VideoStoreEntityModel.Store.OrderOrderItem">
       <End Role="Order" EntitySet="Orders" />
@@ -126,15 +125,6 @@
     </Key>
     <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
     <Property Name="Name" Type="nvarchar(max)" Nullable="false" />
-  </EntityType>
-  <EntityType Name="SystemLogs">
-    <Key>
-      <PropertyRef Name="Id" />
-    </Key>
-    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
-    <Property Name="EventTime" Type="datetime" Nullable="false" />
-    <Property Name="Source" Type="nvarchar(max)" Nullable="false" />
-    <Property Name="Message" Type="nvarchar(max)" Nullable="false" />
   </EntityType>
   <EntityType Name="UserRole">
     <Key>
@@ -281,7 +271,6 @@
             <End Role="Media" EntitySet="Media" />
             <End Role="Stock" EntitySet="Stocks" />
           </AssociationSet>
-          <EntitySet Name="SystemLogs" EntityType="VideoStoreEntityModel.SystemLog" />
         </EntityContainer>
         <EntityType Name="User">
           <Key>
@@ -394,15 +383,6 @@
           <End Type="VideoStoreEntityModel.Media" Role="Media" Multiplicity="1" />
           <End Type="VideoStoreEntityModel.Stock" Role="Stock" Multiplicity="1" />
         </Association>
-        <EntityType Name="SystemLog">
-          <Key>
-            <PropertyRef Name="Id" />
-          </Key>
-          <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
-          <Property Type="DateTime" Name="EventTime" Nullable="false" />
-          <Property Type="String" Name="Source" Nullable="false" />
-          <Property Type="String" Name="Message" Nullable="false" />
-        </EntityType>
       </Schema>
     </edmx:ConceptualModels>
     <!-- C-S mapping content -->
@@ -486,16 +466,6 @@
         <MappingFragment StoreEntitySet="Roles">
           <ScalarProperty Name="Id" ColumnName="Id" />
           <ScalarProperty Name="Name" ColumnName="Name" />
-        </MappingFragment>
-      </EntityTypeMapping>
-    </EntitySetMapping>
-    <EntitySetMapping Name="SystemLogs">
-      <EntityTypeMapping TypeName="IsTypeOf(VideoStoreEntityModel.SystemLog)">
-        <MappingFragment StoreEntitySet="SystemLogs">
-          <ScalarProperty Name="Id" ColumnName="Id" />
-          <ScalarProperty Name="EventTime" ColumnName="EventTime" />
-          <ScalarProperty Name="Source" ColumnName="Source" />
-          <ScalarProperty Name="Message" ColumnName="Message" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
@@ -612,7 +582,6 @@
           <ConnectorPoint PointX="4.5" PointY="8.2689925130208337" />
           <ConnectorPoint PointX="5.375" PointY="8.2689925130208337" />
         </AssociationConnector>
-        <EntityTypeShape EntityType="VideoStoreEntityModel.SystemLog" Width="1.5" PointX="9.125" PointY="2.25" Height="1.7976693056027093" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

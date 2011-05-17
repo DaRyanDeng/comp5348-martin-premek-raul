@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using Common;
 using VideoStore.Services.Interfaces;
 using VideoStore.Business.Components.Interfaces;
 using System.ComponentModel.Composition;
@@ -13,10 +14,7 @@ namespace VideoStore.Services
     {
         private IUserProvider UserProvider
         {
-            get
-            {
-                return ServiceFactory.GetService<IUserProvider>();
-            }
+            get { return ServiceFactory.GetService<IUserProvider>(); }
         }
 
         public void CreateUser(Business.Entities.User pUser)

@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.ServiceModel;
 using System.Messaging;
 
@@ -25,7 +22,7 @@ namespace EmailService.Process
 
         private static void HostServices()
         {
-            using (ServiceHost lHost = new ServiceHost(typeof(EmailService.Services.EmailService)))
+            using (var lHost = new ServiceHost(typeof(Services.EmailService)))
             {
                 lHost.Open();
                 Console.WriteLine("Email service started. Press Q to quit.");
