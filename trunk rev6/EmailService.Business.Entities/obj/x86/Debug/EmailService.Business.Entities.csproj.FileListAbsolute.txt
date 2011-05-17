@@ -169,3 +169,13 @@ E:\Usyd\COMP5348\Assignment2\Ver63\EmailService.Business.Entities\bin\Debug\Emai
 E:\Usyd\COMP5348\Assignment2\Ver63\EmailService.Business.Entities\obj\x86\Debug\ResolveAssemblyReference.cache
 E:\Usyd\COMP5348\Assignment2\Ver63\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.exe
 E:\Usyd\COMP5348\Assignment2\Ver63\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver64\EmailService.Business.Entities\bin\Debug\EmailService.Business.Entities.exe
+E:\Usyd\COMP5348\Assignment2\Ver64\EmailService.Business.Entities\bin\Debug\EmailService.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver64\EmailService.Business.Entities\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver64\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.exe
+E:\Usyd\COMP5348\Assignment2\Ver64\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver65\EmailService.Business.Entities\bin\Debug\EmailService.Business.Entities.exe
+E:\Usyd\COMP5348\Assignment2\Ver65\EmailService.Business.Entities\bin\Debug\EmailService.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver65\EmailService.Business.Entities\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver65\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.exe
+E:\Usyd\COMP5348\Assignment2\Ver65\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.pdb

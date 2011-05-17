@@ -214,3 +214,15 @@ E:\Usyd\COMP5348\Assignment2\Ver63\DeliveryCo.Business\DeliveryCo.Business.Entit
 E:\Usyd\COMP5348\Assignment2\Ver63\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\ResolveAssemblyReference.cache
 E:\Usyd\COMP5348\Assignment2\Ver63\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.dll
 E:\Usyd\COMP5348\Assignment2\Ver63\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver64\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.dll.config
+E:\Usyd\COMP5348\Assignment2\Ver64\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver64\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver64\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver64\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver64\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver65\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.dll.config
+E:\Usyd\COMP5348\Assignment2\Ver65\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver65\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver65\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver65\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver65\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.pdb

@@ -94,3 +94,15 @@ E:\Usyd\COMP5348\Assignment2\Ver63\Bank.Business\Bank.Business.Entities\bin\Debu
 E:\Usyd\COMP5348\Assignment2\Ver63\Bank.Business\Bank.Business.Entities\obj\Debug\ResolveAssemblyReference.cache
 E:\Usyd\COMP5348\Assignment2\Ver63\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.dll
 E:\Usyd\COMP5348\Assignment2\Ver63\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver64\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll.config
+E:\Usyd\COMP5348\Assignment2\Ver64\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver64\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver64\Bank.Business\Bank.Business.Entities\obj\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver64\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver64\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver65\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll.config
+E:\Usyd\COMP5348\Assignment2\Ver65\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver65\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver65\Bank.Business\Bank.Business.Entities\obj\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver65\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver65\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.pdb

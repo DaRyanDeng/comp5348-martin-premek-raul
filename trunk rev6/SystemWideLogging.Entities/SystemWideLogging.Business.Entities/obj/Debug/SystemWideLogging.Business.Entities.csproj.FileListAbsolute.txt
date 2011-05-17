@@ -114,3 +114,17 @@ E:\Usyd\COMP5348\Assignment2\Ver63\SystemWideLogging.Entities\SystemWideLogging.
 E:\Usyd\COMP5348\Assignment2\Ver63\SystemWideLogging.Entities\SystemWideLogging.Business.Entities\obj\Debug\ResolveAssemblyReference.cache
 E:\Usyd\COMP5348\Assignment2\Ver63\SystemWideLogging.Entities\SystemWideLogging.Business.Entities\obj\Debug\SystemWideLogging.Business.Entities.dll
 E:\Usyd\COMP5348\Assignment2\Ver63\SystemWideLogging.Entities\SystemWideLogging.Business.Entities\obj\Debug\SystemWideLogging.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver64\SystemWideLogging.Entities\SystemWideLogging.Business.Entities\bin\Debug\SystemWideLogging.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver64\SystemWideLogging.Entities\SystemWideLogging.Business.Entities\bin\Debug\SystemWideLogging.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver64\SystemWideLogging.Entities\SystemWideLogging.Business.Entities\bin\Debug\Common.dll
+E:\Usyd\COMP5348\Assignment2\Ver64\SystemWideLogging.Entities\SystemWideLogging.Business.Entities\bin\Debug\Common.pdb
+E:\Usyd\COMP5348\Assignment2\Ver64\SystemWideLogging.Entities\SystemWideLogging.Business.Entities\obj\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver64\SystemWideLogging.Entities\SystemWideLogging.Business.Entities\obj\Debug\SystemWideLogging.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver64\SystemWideLogging.Entities\SystemWideLogging.Business.Entities\obj\Debug\SystemWideLogging.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver65\SystemWideLogging.Entities\SystemWideLogging.Business.Entities\bin\Debug\SystemWideLogging.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver65\SystemWideLogging.Entities\SystemWideLogging.Business.Entities\bin\Debug\SystemWideLogging.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver65\SystemWideLogging.Entities\SystemWideLogging.Business.Entities\bin\Debug\Common.dll
+E:\Usyd\COMP5348\Assignment2\Ver65\SystemWideLogging.Entities\SystemWideLogging.Business.Entities\bin\Debug\Common.pdb
+E:\Usyd\COMP5348\Assignment2\Ver65\SystemWideLogging.Entities\SystemWideLogging.Business.Entities\obj\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver65\SystemWideLogging.Entities\SystemWideLogging.Business.Entities\obj\Debug\SystemWideLogging.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver65\SystemWideLogging.Entities\SystemWideLogging.Business.Entities\obj\Debug\SystemWideLogging.Business.Entities.pdb
