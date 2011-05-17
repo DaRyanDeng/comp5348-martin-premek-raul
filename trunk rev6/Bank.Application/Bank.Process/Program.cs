@@ -37,7 +37,7 @@ namespace Bank.Process
 
         private static void HostServices()
         {
-            using (ServiceHost lHost = new ServiceHost(typeof(TransferService)))
+            using (ServiceHost lHost = new ServiceHost(typeof(BankAsynchronousTransferService)))
             {
                 lHost.Open();
                 Console.WriteLine("Bank Services started. Press Q to quit.");
@@ -45,7 +45,7 @@ namespace Bank.Process
             }
         }
 
-        private static readonly String sPublishQueuePath = ".\\private$\\BankTransferQueueTransacted";
+        private static readonly String sPublishQueuePath = ".\\private$\\BankAsynchronousTransferQueueTransacted";
         private static void EnsureMessageQueuesExists()
         {
             // Create the transacted MSMQ queue if necessary.

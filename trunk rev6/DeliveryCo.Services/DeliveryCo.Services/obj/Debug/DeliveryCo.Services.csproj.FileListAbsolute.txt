@@ -358,3 +358,15 @@ E:\Usyd\COMP5348\Assignment2\Ver55\DeliveryCo.Services\DeliveryCo.Services\bin\D
 E:\Usyd\COMP5348\Assignment2\Ver55\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\ResolveAssemblyReference.cache
 E:\Usyd\COMP5348\Assignment2\Ver55\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\DeliveryCo.Services.dll
 E:\Usyd\COMP5348\Assignment2\Ver55\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\DeliveryCo.Services.pdb
+E:\Usyd\COMP5348\Assignment2\Ver63\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Services.dll
+E:\Usyd\COMP5348\Assignment2\Ver63\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Services.pdb
+E:\Usyd\COMP5348\Assignment2\Ver63\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver63\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Business.Entities.dll
+E:\Usyd\COMP5348\Assignment2\Ver63\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Services.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver63\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Usyd\COMP5348\Assignment2\Ver63\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver63\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Business.Entities.pdb
+E:\Usyd\COMP5348\Assignment2\Ver63\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver63\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver63\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\DeliveryCo.Services.dll
+E:\Usyd\COMP5348\Assignment2\Ver63\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\DeliveryCo.Services.pdb
