@@ -63,6 +63,10 @@
       <Project>{7E7A8D7D-87CF-420F-A72B-8F4A258BB48A}</Project>
       <Name>DeliveryCo.Services.Interfaces</Name>
     </ProjectReference>
+    <ProjectReference Include="..\..\SystemWideLogClient\SystemWideLogClient.csproj">
+      <Project>{7BF30AF5-B438-4899-99E1-69C11CC9D425}</Project>
+      <Name>SystemWideLogClient</Name>
+    </ProjectReference>
     <ProjectReference Include="..\..\VideoStore.Services.Interfaces\VideoStore.Services.Interfaces.csproj">
       <Project>{17197901-BBE3-48E8-AC98-689AB9A7ED1E}</Project>
       <Name>VideoStore.Services.Interfaces</Name>

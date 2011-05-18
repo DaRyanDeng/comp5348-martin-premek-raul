@@ -62,6 +62,10 @@
       <Project>{16F35917-9906-45FD-81B6-B06FCC8D19B6}</Project>
       <Name>EmailService.Services %28Applications\EmailService\EmailService.Services\EmailService.Services%29</Name>
     </ProjectReference>
+    <ProjectReference Include="..\..\SystemWideLogClient\SystemWideLogClient.csproj">
+      <Project>{7BF30AF5-B438-4899-99E1-69C11CC9D425}</Project>
+      <Name>SystemWideLogClient</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

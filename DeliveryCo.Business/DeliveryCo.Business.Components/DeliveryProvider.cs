@@ -5,6 +5,8 @@ using Common;
 using DeliveryCo.Business.Components.Interfaces;
 using DeliveryCo.Business.Entities;
 using DeliveryCo.Services.Interfaces;
+using SystemWideLoggingClientNS;
+
 
 namespace DeliveryCo.Business.Components
 {
@@ -12,8 +14,15 @@ namespace DeliveryCo.Business.Components
     {
         private const string DeliveryNotificationServiceEndpointAddress = "net.tcp://localhost:9010/DeliveryNotificationService";
 
+
+
+
         public void SubmitDelivery(DeliveryInfo pDeliveryInfo)
         {
+
+            SystemWideLogging.LogServiceClient.LogEvent("DeliveryCo :: DeliveryCo.Business\\DeliveryCo.Business.Components\\DeliveryProvider.cs :: public void SubmitDelivery(DeliveryInfo pDeliveryInfo)", "Received Delivery Request from MessageBus - via Pub/Sub");
+
+            
             using(var lScope = new TransactionScope())
             using(var lContainer = new DeliveryDataModelContainer())
             {
@@ -24,7 +33,10 @@ namespace DeliveryCo.Business.Components
                 ThreadPool.QueueUserWorkItem(pObj => ScheduleDelivery(pDeliveryInfo));
                 lScope.Complete();
             }
-            
+
+
+
+            SystemWideLogging.LogServiceClient.LogEvent("DeliveryCo :: DeliveryCo.Business\\DeliveryCo.Business.Components\\DeliveryProvider.cs :: public void SubmitDelivery(DeliveryInfo pDeliveryInfo)", "Sending Delivery Confirmation Receipt to VideoStore - via MSMQ");
             // Send notification back to VideoStore App
             var notificationService = ServiceFactory.GetService<IDeliveryNotificationService>(DeliveryNotificationServiceEndpointAddress);
             notificationService.NotifyDeliverySubmission(Guid.Parse(pDeliveryInfo.OrderNumber), pDeliveryInfo.DeliveryIdentifier);
@@ -36,6 +48,8 @@ namespace DeliveryCo.Business.Components
         {
             Thread.Sleep(TimeSpan.FromSeconds(3));
 
+
+            SystemWideLogging.LogServiceClient.LogEvent("DeliveryCo :: DeliveryCo.Business\\DeliveryCo.Business.Components\\DeliveryProvider.cs :: private static void ScheduleDelivery(DeliveryInfo pDeliveryInfo)", "Sending Delivery Completion Notification to VideoStore - via MSMQ");
             // Send final delivery message to VideoStore App
             var notificationService = ServiceFactory.GetService<IDeliveryNotificationService>(DeliveryNotificationServiceEndpointAddress);
             notificationService.NotifyDeliveryCompletion(pDeliveryInfo.DeliveryIdentifier, DeliveryInfoStatus.Delivered);

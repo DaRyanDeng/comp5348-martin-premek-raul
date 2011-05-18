@@ -40,6 +40,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.ServiceModel" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -58,6 +59,10 @@
     <ProjectReference Include="..\..\EmailService.Business.Entities\EmailService.Business.Entities.csproj">
       <Project>{36151D99-6929-4365-9A30-53E6680F61EA}</Project>
       <Name>EmailService.Business.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\SystemWideLogClient\SystemWideLogClient.csproj">
+      <Project>{7BF30AF5-B438-4899-99E1-69C11CC9D425}</Project>
+      <Name>SystemWideLogClient</Name>
     </ProjectReference>
     <ProjectReference Include="..\EmailService.Services.Interfaces\EmailService.Services.Interfaces.csproj">
       <Project>{361095E5-34FD-4987-BCE7-090D4E317918}</Project>

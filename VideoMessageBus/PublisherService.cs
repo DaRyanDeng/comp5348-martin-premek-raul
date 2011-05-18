@@ -5,6 +5,10 @@ using System.ServiceModel;
 using Common;
 using Common.Messages;
 using VideoMessageBus.Interfaces;
+using SystemWideLoggingClientNS;
+
+
+
 
 namespace VideoMessageBus
 {
@@ -13,8 +17,16 @@ namespace VideoMessageBus
     {
         public void Publish(VideoMessage message)
         {
+
+
+
             if (message is DeliveryRequestMessage)
             {
+
+
+                SystemWideLogging.LogServiceClient.LogEvent("MessageBus :: VideoMessageBus\\PublisherService.cs :: public void Publish(VideoMessage message)", "Received DeliveryRequestMessage Publish Request from VideoStore ( message.TopicName=" + message.TopicName + " )");
+           
+                
                 var deliveryMessage = message as DeliveryRequestMessage;
 
                 // Find the scubscriber who matches with region of delivery address
@@ -26,6 +38,10 @@ namespace VideoMessageBus
                     ((IList<string>)subscribers).Count == 0)
                 {
                     // Save the message
+
+                    SystemWideLogging.LogServiceClient.LogEvent("MessageBus :: VideoMessageBus\\PublisherService.cs :: public void Publish(VideoMessage message)", "Can't find any subscribers, storing message in queue ( message.TopicName=" + message.TopicName + " )");
+           
+
                     PutMessageIntoQueue(message);
                     return;
                 }
@@ -37,6 +53,12 @@ namespace VideoMessageBus
 
                     if (service == null)
                     {
+
+
+
+                        SystemWideLogging.LogServiceClient.LogEvent("MessageBus :: VideoMessageBus\\PublisherService.cs :: public void Publish(VideoMessage message)", "Following service was unsubscribed because no such address is available: " + subscriberAddress);
+           
+                        
                         PutMessageIntoQueue(message);
 
                         // It must be a dead service so unsubscribe it
@@ -50,6 +72,10 @@ namespace VideoMessageBus
 
                     try
                     {
+
+                        SystemWideLogging.LogServiceClient.LogEvent("MessageBus :: VideoMessageBus\\PublisherService.cs :: public void Publish(VideoMessage message)", "Forwarding message to subscriber ( subscriberAddress="+subscriberAddress+" , message.TopicName=" + message.TopicName + " )");
+           
+                        
                         service.PublishToSubscriber(message);
 
                         Console.WriteLine("Request sent to " + subscriberAddress);
@@ -60,7 +86,7 @@ namespace VideoMessageBus
                         SubscriptionRegistry.RemoveSubscriber(message.TopicName, subscriberAddress);
 
                         ConsoleHelper.WriteLine(ConsoleColor.Red,
-                                                "An failuer has occurred to publish the message to " + subscriberAddress +
+                                                "An failue has occurred to publish the message to " + subscriberAddress +
                                                 " so the service was unsubscribed!");
                     }
                 }
