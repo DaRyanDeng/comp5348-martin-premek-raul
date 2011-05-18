@@ -1,0 +1,105 @@
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\TemplateMessaging\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver38\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver38\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver38\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver38\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver38\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver39\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver39\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver39\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver39\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver39\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver40\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver40\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver40\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver40\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver40\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver41\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver41\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver41\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver41\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver41\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\Raul\Desktop\trunk rev6\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\Raul\Desktop\trunk rev6\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\Raul\Desktop\trunk rev6\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Raul\Desktop\trunk rev6\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\Raul\Desktop\trunk rev6\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver54\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver54\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver54\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver54\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver54\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver55\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver55\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver55\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver55\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver55\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver57\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver57\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver57\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver57\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver57\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver58\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver58\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver58\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver58\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver58\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver58latestunmergedwithmartin\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver58latestunmergedwithmartin\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver58latestunmergedwithmartin\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver58latestunmergedwithmartin\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver58latestunmergedwithmartin\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver60\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver60\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver60\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver60\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver60\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver62\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver62\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver62\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver62\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver62\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver63\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver63\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver63\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver63\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver63\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver64\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver64\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver64\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver64\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver64\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver65\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver65\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver65\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver65\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver65\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver76\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver76\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver76\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver76\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver76\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver77\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver77\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver77\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver77\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver77\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver78\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver78\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Usyd\COMP5348\Assignment2\Ver78\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+E:\Usyd\COMP5348\Assignment2\Ver78\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.dll
+E:\Usyd\COMP5348\Assignment2\Ver78\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.pdb
