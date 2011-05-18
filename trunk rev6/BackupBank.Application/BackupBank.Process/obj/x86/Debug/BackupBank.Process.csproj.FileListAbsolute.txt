@@ -1,2 +1,0 @@
-E:\Usyd\COMP5348\Assignment2\Ver66\BackupBank.Application\BackupBank.Process\bin\Debug\BackupBank.Process.exe.config
-E:\Usyd\COMP5348\Assignment2\Ver66\BackupBank.Application\BackupBank.Process\obj\x86\Debug\ResolveAssemblyReference.cache
