@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Messaging;
 using System.ServiceModel;
+using SystemWideLoggingClientNS;
 
 namespace VideoMessageBus
 {
@@ -12,6 +13,15 @@ namespace VideoMessageBus
 
         static void Main(string[] args)
         {
+
+
+
+            SystemWideLogging.InitiateClass();
+
+
+            SystemWideLogging.LogServiceClient.LogEvent("MessageBus :: VideoMessageBus\\Program.cs  :: static void Main(string[] args)", "Service started");
+           
+            
             EnsureMessageQueuesExists();
 
             using (var publisher = new ServiceHost(typeof (PublisherService)))
@@ -31,6 +41,10 @@ namespace VideoMessageBus
                     subscriber.Close();
                 }
             }
+
+
+            SystemWideLogging.LogServiceClient.LogEvent("MessageBus :: VideoMessageBus\\Program.cs  :: static void Main(string[] args)", "Service ended");
+
         }
 
         private static void EnsureMessageQueuesExists()

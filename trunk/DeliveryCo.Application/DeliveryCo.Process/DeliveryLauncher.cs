@@ -8,6 +8,9 @@ using Microsoft.Practices.ServiceLocation;
 using Microsoft.Practices.Unity;
 using Microsoft.Practices.Unity.Configuration;
 using Microsoft.Practices.Unity.ServiceLocatorAdapter;
+using SystemWideLoggingClientNS;
+
+
 
 namespace DeliveryCo.Process
 {
@@ -30,9 +33,14 @@ namespace DeliveryCo.Process
             using (var lHost = new ServiceHost(typeof(DeliveryService)))
             {
                 lHost.Open();
-                Console.WriteLine("Delivery Service started.");
+                
 
+                
                 while (Console.ReadKey().Key != ConsoleKey.Q);
+
+
+                
+
             }
         }
 
@@ -40,6 +48,8 @@ namespace DeliveryCo.Process
         {
             ConsoleHelper.WriteLine(ConsoleColor.Yellow, "Delivery Service has unsubscribed.");
             UnsubscribeForEvents();
+
+            
         }
 
         private static string DeliveryCentre
@@ -58,6 +68,9 @@ namespace DeliveryCo.Process
             ISubscriptionService subscriptionService = ServiceFactory.GetService<ISubscriptionService>(SubscriptionServiceEndpointAddress);
 
             subscriptionService.Subscribe(TopicServicePath, DeliveryServiceEndpointAddress);
+
+            SystemWideLogging.LogServiceClient.LogEvent("DeliveryCo :: DeliveryCo.Application\\DeliveryCo.Process\\DeliveryLauncher.cs :: private static void SubscribeForEvents()", "Subscribed to MessageBus");
+
         }
 
         private static void UnsubscribeForEvents()
@@ -66,6 +79,9 @@ namespace DeliveryCo.Process
             ISubscriptionService subscriptionService = ServiceFactory.GetService<ISubscriptionService>(SubscriptionServiceEndpointAddress);
 
             subscriptionService.Unsubscribe(TopicServicePath, DeliveryServiceEndpointAddress);
+
+            SystemWideLogging.LogServiceClient.LogEvent("DeliveryCo :: DeliveryCo.Application\\DeliveryCo.Process\\DeliveryLauncher.cs :: private static void UnsubscribeForEvents()", "Unsubscribed from MessageBus");
+
         }
 
         private static void ResolveDependencies()

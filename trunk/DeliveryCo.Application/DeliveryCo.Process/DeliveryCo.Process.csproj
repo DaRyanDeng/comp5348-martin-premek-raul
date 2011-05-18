@@ -83,7 +83,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="Service References\DeliveryNotificationService\DeliveryCo.Services.Interfaces.xsd">
       <SubType>Designer</SubType>
     </None>
@@ -122,6 +124,10 @@
     <ProjectReference Include="..\..\DeliveryCo.Services\DeliveryCo.Services\DeliveryCo.Services.csproj">
       <Project>{8CEA219C-079D-45D9-868D-14F6482785A4}</Project>
       <Name>DeliveryCo.Services %28Applications\DeliveryCo\DeliveryCo.Services\DeliveryCo.Services%29</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\SystemWideLogClient\SystemWideLogClient.csproj">
+      <Project>{7BF30AF5-B438-4899-99E1-69C11CC9D425}</Project>
+      <Name>SystemWideLogClient</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

@@ -1,6 +1,9 @@
 ﻿using System;
 using System.ServiceModel;
 using System.Messaging;
+using SystemWideLoggingClientNS;
+
+
 
 namespace EmailService.Process
 {
@@ -8,8 +11,18 @@ namespace EmailService.Process
     {
         static void Main(string[] args)
         {
+
+            SystemWideLogging.InitiateClass();
+
+            SystemWideLogging.LogServiceClient.LogEvent("EmailService :: EmailService.Application\\EmailService.Process\\Program.cs  :: static void Main(string[] args)", "Service started");
+            
+            
             EnsureMessageQueuesExists();
             HostServices();
+
+
+            SystemWideLogging.LogServiceClient.LogEvent("EmailService :: EmailService.Application\\EmailService.Process\\Program.cs  :: static void Main(string[] args)", "Service ended");
+
         }
 
         private static readonly String sPublishQueuePath = ".\\private$\\EmailServiceQueue";
